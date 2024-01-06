@@ -1,0 +1,93 @@
+<html>
+<p><strong>Report Cards</strong></p>
+
+<p>Schools have different parameters for eligibility for extracurricular activities based on students' grades. Often times,
+eligibility has multiple dependencies, not just GPA. Suppose a school has the following terms of eligibility terms:
+<br><strong>1. A student must be taking 4 or more classes.
+<br>2. A student must have a GPA of over 2.0.
+<br>3. A student must not have any F's. </strong>
+<p></p>In order for a student to be eligible for extracurricular activities, all of these terms must be true.
+<p></p>
+<strong>Assignment:</strong>
+<br>    Write a program to find a person's GPA and eligibility status when given their grades. The program must print out
+a student's GPA and eligibility status along with a specific statement explaining ineligibility (if one is ineligible).
+<p></p>The following table shows some examples of different cases with the specific phrase that must be printed.
+
+<p></p><style>
+table, th, td {
+  border: 1px solid black;
+}
+</style>
+<body>
+<table>
+    <tr>
+        <th>GPA:</th>
+        <th>Number of classes</th>
+        <th>F's</th>
+        <th>Eligibility Statement: </th>
+    </tr>
+    <tr>
+        <td>4.0</td>
+        <td>5</td>
+        <td>No</td>
+        <td>GPA: 4.0, Eligible</td>
+    </tr>
+    <tr>
+        <td>4.0</td>
+        <td>2</td>
+        <td>No</td>
+        <td>GPA: 4.0, Ineligible, taking less than 4 classes.</td>
+    </tr>
+    <tr>
+        <td>3.0</td>
+        <td>5</td>
+        <td>Yes</td>
+        <td>GPA: 3.0, Ineligible, GPA above 2.0 but has an F grade.</td>
+    </tr>
+    <tr>
+        <td>1.8</td>
+        <td>5</td>
+        <td>No</td>
+        <td>GPA: 1.8, Ineligible, GPA below 2.0.</td>
+    </tr>
+    <tr>
+        <td>1.8</td>
+        <td>4</td>
+        <td>Yes</td>
+        <td>GPA: 1.8, Ineligible, GPA below 2.0 and has an F grade.</td>
+    </tr>
+
+</table>
+</body>
+<p></p>
+1. Code the constructor without parameters. It should read the grades in one by one until a person enters an invalid grade (only
+A, B, C, D, and F) are valid grades. It should calculate <strong>gpa</strong>, change <strong>hasF</strong> to true if an F
+is entered, and initialize <strong>numClasses</strong> to however many grades are entered.
+<div class="hint">
+    Remember to use a loop to read in the grades and update or initialize instance variables!
+</div>
+<div class="hint">
+    The <strong>Scanner</strong> class cannot read in <strong>chars</strong>, so read the user input in as <strong>Strings</strong>.
+</div>
+2. Code the constructor with parameters. It should take in 5 <strong>chars</strong>. It should calculate <strong>gpa</strong>, change <strong>hasF</strong> to true if an F
+is entered, and initialize <strong>numClasses</strong> to however many grades are entered.
+<div class="hint">
+    Unfortunately, we cannot use a loop to calculate everything here as the grades are separate, so do <strong>not</strong>
+    use a loop for this step. This constructor needs to be created in order for you to be able to test all of the rest of your
+    code with the <strong>Check</strong> button below. We will learn a better way to store these grades in the next unit.
+</div>
+3.  Create the necessary getter methods to make sure the instance variables are accessible.
+<p></p>
+4. Write the method, <strong>eligibility</strong>, to <strong>return a String</strong>. The <strong>String</strong>
+must follow the table above - any different formatting will cause the <strong>Check</strong> button below to print
+<strong>Incorrect</strong>. Be aware that number of classes supersedes any of the other eligibility requirements.
+<div class="hint">
+    Be aware that taking 4 or more classes supersedes any of the other eligibility requirements. In other words, if a student
+    is only taking 3 classes and has a 1.8, <strong>eligibility</strong> should return the phrase:
+    <br><strong>GPA: 1.8, Ineligible, taking less than 4 classes.</strong>
+</div>
+5. Create a <strong>ReportCards</strong> object with the constructor without parameters to test <strong>all</strong> of the
+eligibility requirements by printing the eligibility statements. The <strong>Check</strong> button only tests one option (with grades A, A, A, B and F) to let you know if you are on track.
+<strong>You need to test the rest, so your program will need to be run and tested multiple times.</strong>
+<p></p>
+6. Make sure your name is commented out near the top of your source code.

@@ -1,0 +1,88 @@
+<p><strong>LoanTable</strong></p>
+
+<p>Whenever you make a big purchase and choose to take out a loan, there is interest involved. This is how banks make money!
+    We put our money in them to store and they pay us interest - because they are using that capital to loan money to others for these
+    big purchases. The interest rate they give you to store your money is almost always lower than the interest rate they charge
+    you for large loans. They make money on the difference between the amount you pay them to use their money and the amount they make
+    to loan it out for big purchases. Of course, they have some capital to begin with, to protect our assets.
+<p></p>What does this mean for you as the consumer - the one buying your first car or your new home? You will almost always pay more for the car or home than the
+listed price over time. This is due to your interest payments, and interest matters. The higher the interest you pay, the more your overall cost
+and payments will be. But how much more?
+
+<p></p>
+Often times, interest rates are compounded monthly - this is important because there a specific formula to compound interest rates
+in a given period. A formula for your monthly payment, which includes part of the principal (the base price of the item) and interest is as follows:
+<br><strong>    mp = (p*(ar/12)*(1+(ar/12))<sup>y * 12</sup>)/((1+(ar/12))<sup>y * 12</sup>-1)</strong>
+<br>where
+<br><strong>mp = monthly payment amount</strong>
+<br><strong>p = principal, the price of the item</strong>
+<br><strong>ar = annual interest rate</strong>
+<br><strong>y = years</strong>
+
+<p></p>
+The table below represents a monthly payment for a given interest on a <strong>20 year</strong> loan for <strong>$25,000</strong>.
+<p></p>
+<style>
+table, th, td {
+  border: 1px solid black;
+}
+</style>
+<body>
+<table>
+    <tr>
+
+        <th>Annual Interest Rate:</th>
+        <th>Monthly Payment:</th>
+    </tr>
+    <tr>
+        <td>5%</td>
+        <td>$164.99</td>
+    </tr>
+    <tr>
+        <td>6%</td>
+        <td>$179.11</td>
+    </tr>
+    <tr>
+        <td>7.5%</td>
+        <td>$201.40</td>
+    </tr>
+    <tr>
+        <td>10%</td>
+        <td>$241.26</td>
+    </tr>
+
+</table>
+</body>
+<p></p>
+<strong>Assignment:</strong>
+<br>    Write a new program to compare  monthly payments based on the same price of an item as interest changes. For example,
+if a person buys a new car for $40,000, what will the monthly payment be at 5% interest? 5.5%? 6%? And so on. This will help the
+consumer know and understand what he or she is paying in interest and how it affects monthly payments.
+<p></p>
+1. Fill in the different parts of the <strong>printTable</strong> to print a loan table. The table should print the annual interest rate
+in one column and the monthly payment in another. The method will also calculate each monthly payment. Base your loop boundary (i)
+on the given rates. Doubles under zero do funny things when used as loop boundaries, so I have coded i/=100 at the beginning of
+the loop and i*=100 at the end of the loop to help deal with this. <strong>Do not round or format - it is ok to get an unrounded result here.
+If you round, the Check button will not work correctly.</strong>
+<p></p>
+<div class="hint">
+    When used as loop boundaries, doubles round oddly. Becuase of this, the upper loop boundary should actually go past the
+    high boundary for the interest rate.
+</div>
+<div class="hint">
+    Be sure to remember to use <strong>Math class</strong> methods found in its
+    <a href="https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/Math.html">API</a> to help calculate
+    the monthly payments.
+</div>
+<p></p>
+2. Create a <strong>LoanTable</strong> object in the client class. Initialize it with the following values:
+<br><strong>Item: House</strong>
+<br><strong>principal = 1000000</strong>
+<br><strong>low interest rate = 11</strong>
+<br><strong>high interest rate = 12</strong>
+<br><strong>increment amount = 0.25</strong>
+<br><strong>years = 30</strong>
+<p></p>
+3.  Run the <strong>printTable</strong> method to test your code!
+<p></p>
+4. Make sure your name is commented out near the top of your source code.

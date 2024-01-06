@@ -1,0 +1,26 @@
+type: marketplace
+title: APCS Keate
+language: English
+summary: |-
+  <p>This is an introductory Java course complement to the AP Computer Science A course taught using <strong>AP CSAwesome</strong>
+  by Barbara Ericson and Beryl Hoffman's on <a href="https://runestone.academy/ns/books/published/csawesome/index.html?mode=browsing">Runestone Academy</a>. The College Board AP Computer Science A course webpage and information, including the course overview, can be found <a href="https://apcentral.collegeboard.org/courses/ap-computer-science-a/course">here</a>.
+  The activities presented are based on the official <a href="https://docs.oracle.com/en/java/">Java Documentation</a>. The target audience for this course are high school students with little or no experience programming in Java using the free companion textbook, <strong>AP CSAwesome</strong>.</p>
+  <p>
+  This course covers the basics of object-oriented programming through Java from creating primitive data type variables and performing operations on them, control structures, different types of iteration, and simple data structures: arrays, ArrayLists, and 2D arrays. This course also includes using Java's built in classes, like the String class, to create and use objects and their methods. It explores developing classes to create custom object types. The topic of inheritance is introduced as well.
+  </p>
+  <p>
+  There are no official prerequisites for this course, but a strong background in logic or advanced algebra is recommended.
+  </p>
+programming_language: Java
+content:
+  - Unit 1
+  - Unit 2
+  - Unit 3
+  - Unit 4
+  - Unit 5
+  - Unit 6
+  - Unit 7
+  - Unit 8
+  - Unit 9
+mode: Study
+feedback_link: https://plugins.jetbrains.com/plugin/19188-apcs-keate/reviews

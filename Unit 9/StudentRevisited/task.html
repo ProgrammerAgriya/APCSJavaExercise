@@ -1,0 +1,83 @@
+<html>
+<p><strong>School Revisited</strong></p>
+<p>We have looked at students throughout this semester but not through the lens of inheritance. You are given the
+    <strong>Teacher</strong> and <strong>Student</strong> classes to help you write the remainder of the of the <strong>CollegeStudent</strong>,
+    <strong>PhDStudent</strong>, and <strong>Teacher</strong> classes.
+<p></p>
+<strong>Assignment:</strong>
+<br>In this lab, you will be focusing on the
+<strong>CollegeStudent</strong>, <strong>PhDStudent</strong>, and <strong>Teacher</strong> classes. Examine the
+<strong>Person</strong> and <strong>Student</strong> and make the necessary changes to the other classes so they work as
+intended.
+<p></p>
+1. Complete the class header and constructor of the <strong>Teacher</strong> class. <strong>Teacher</strong> is a subclass
+of <strong>Person</strong>.
+<p></p>
+<div class="hint">
+    You will need to use the super constructor and initialize a <strong>Teacher</strong>'s new variables, <strong>subject</strong>
+    and <strong>salary</strong>.
+</div>
+<p></p>
+2. Complete the <strong>getter</strong>, <strong>setter</strong>, and <strong>toString</strong> methods for the <strong>Teacher</strong> class.
+The <strong>setter</strong> methods should not return anything.
+<p></p>
+<div class="hint">
+    When overriding the <strong>toString</strong> method, be sure to use the superclass's <strong>toString</strong> method.
+</div>
+<p></p>
+3. Complete the class header and constructor of the <strong>CollegeStudent</strong> class. <strong>CollegeStudent</strong> is a subclass
+of <strong>Student</strong>.
+<p></p>
+<div class="hint">
+    You will need to use the super constructor and initialize a <strong>CollegeStudent</strong>'s new variables, <strong>year</strong>
+    and <strong>major</strong>.
+</div>
+<p></p>
+4.  Complete the <strong>getter</strong>, <strong>setter</strong>, and <strong>toString</strong> methods for the <strong>CollegeStudent</strong> class.
+The <strong>setter</strong> methods should not return anything.
+<p></p>
+<div class="hint">
+    When overriding the <strong>toString</strong> method, be sure to use the superclass's <strong>toString</strong> method.
+</div>
+<p></p>
+5. Complete the class header and constructor of the <strong>PhDStudent</strong> class. <strong>PhDStudent</strong> is a subclass
+of <strong>CollegeStudent</strong>.
+<p></p>
+<div class="hint">
+    You will need to use the super constructor and initialize a <strong>PhDStudent</strong>'s new variables, <strong>thesisTitle</strong>,
+    <strong>isTeaching</strong> and <strong>classTeaching</strong>.
+</div>
+<p></p>
+6. Complete the <strong>getter</strong>, <strong>setter</strong>, and <strong>toString</strong> methods for the <strong>PhDStudent</strong> class.
+The <strong>setter</strong> methods should not return <anything class=""></anything>
+<p></p>
+<div class="hint">
+    When overriding the <strong>toString</strong> method, be sure to use the superclass's <strong>toString</strong> method.
+</div>
+<p></p>
+7. Complete the <strong>writesThesis</strong> method for the <strong>PhDStudent</strong> class.
+<p></p>
+<div class="hint">
+    <strong>writesThesis</strong> updates <strong>totalStudyHours</strong> to include the number of hours spent writing
+    the thesis. <strong>totalStudyHours</strong> is a <strong>private</strong> instance variable of the <strong>Student</strong>
+    class. Think about how you will be able to do this with restricted access.
+</div>
+<p></p>
+8. Complete the <strong>StudentRevisited</strong> class. A <strong>Teacher</strong> and two <strong>Student</strong>s
+have already been created. Add the <strong>Student</strong>s to the list. Then, make <strong>phD</strong> write a his thesis
+for 3 hours. Then, print out the <strong>Teacher</strong>. Print out the <strong>Student</strong>s using a loop.
+<p></p>
+<div class="hint">
+    When adding objects from a list, you may want to access the <strong>ArrayList</strong>
+    class methods found in its
+    <a href="https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/ArrayList.html">API</a>.
+</div>
+<p></p>
+<div class="hint">
+    When making the <strong>PhDStudent</strong> write his thesis, remember that he is declared as a <strong>Student</strong>.
+    What will you need to do to ensure the appropriate method is called properly?
+</div>
+<p></p>
+9. Make sure your name is commented near the top of your source code and use the given <strong>StudentRevisited</strong>
+class to test the accuracy of your code. You may alter this class to fit your needs and test appropriately.
+</html>

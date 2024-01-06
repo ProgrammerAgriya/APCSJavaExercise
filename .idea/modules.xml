@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/APCS_Keate.iml" filepath="$PROJECT_DIR$/.idea/modules/APCS_Keate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Unit 1/Coins/APCS_Keate.Unit_1-Coins.iml" filepath="$PROJECT_DIR$/.idea/modules/Unit 1/Coins/APCS_Keate.Unit_1-Coins.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Unit 1/Coins/APCS_Keate.Unit_1-Coins.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Unit 1/Coins/APCS_Keate.Unit_1-Coins.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Unit 1/Coins/APCS_Keate.Unit_1-Coins.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Unit 1/Coins/APCS_Keate.Unit_1-Coins.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Unit 1/Easter/APCS_Keate.Unit_1-Easter.iml" filepath="$PROJECT_DIR$/.idea/modules/Unit 1/Easter/APCS_Keate.Unit_1-Easter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Unit 1/Easter/APCS_Keate.Unit_1-Easter.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Unit 1/Easter/APCS_Keate.Unit_1-Easter.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Unit 1/Easter/APCS_Keate.Unit_1-Easter.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Unit 1/Easter/APCS_Keate.Unit_1-Easter.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Unit 2/Car Rental/APCS_Keate.Unit_2-Car_Rental.iml" filepath="$PROJECT_DIR$/.idea/modules/Unit 2/Car Rental/APCS_Keate.Unit_2-Car_Rental.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Unit 2/Car Rental/APCS_Keate.Unit_2-Car_Rental.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Unit 2/Car Rental/APCS_Keate.Unit_2-Car_Rental.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Unit 2/Car Rental/APCS_Keate.Unit_2-Car_Rental.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Unit 2/Car Rental/APCS_Keate.Unit_2-Car_Rental.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Unit 2/Quadratic/APCS_Keate.Unit_2-Quadratic.iml" filepath="$PROJECT_DIR$/.idea/modules/Unit 2/Quadratic/APCS_Keate.Unit_2-Quadratic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Unit 2/Quadratic/APCS_Keate.Unit_2-Quadratic.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Unit 2/Quadratic/APCS_Keate.Unit_2-Quadratic.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Unit 2/Quadratic/APCS_Keate.Unit_2-Quadratic.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Unit 2/Quadratic/APCS_Keate.Unit_2-Quadratic.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Unit 2/ReguarPolygon/APCS_Keate.Unit_2-ReguarPolygon.iml" filepath="$PROJECT_DIR$/.idea/modules/Unit 2/ReguarPolygon/APCS_Keate.Unit_2-ReguarPolygon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Unit 2/ReguarPolygon/APCS_Keate.Unit_2-ReguarPolygon.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Unit 2/ReguarPolygon/APCS_Keate.Unit_2-ReguarPolygon.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Unit 2/ReguarPolygon/APCS_Keate.Unit_2-ReguarPolygon.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Unit 2/ReguarPolygon/APCS_Keate.Unit_2-ReguarPolygon.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Unit 2/SwingExample/APCS_Keate.Unit_2-SwingExample.iml" filepath="$PROJECT_DIR$/.idea/modules/Unit 2/SwingExample/APCS_Keate.Unit_2-SwingExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Unit 2/SwingExample/APCS_Keate.Unit_2-SwingExample.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Unit 2/SwingExample/APCS_Keate.Unit_2-SwingExample.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Unit 2/SwingExample/APCS_Keate.Unit_2-SwingExample.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Unit 2/SwingExample/APCS_Keate.Unit_2-SwingExample.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Unit 3/Lottery/APCS_Keate.Unit_3-Lottery.iml" filepath="$PROJECT_DIR$/.idea/modules/Unit 3/Lottery/APCS_Keate.Unit_3-Lottery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Unit 3/Lottery/APCS_Keate.Unit_3-Lottery.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Unit 3/Lottery/APCS_Keate.Unit_3-Lottery.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Unit 3/Lottery/APCS_Keate.Unit_3-Lottery.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Unit 3/Lottery/APCS_Keate.Unit_3-Lottery.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Unit 3/MovieTheatreSale/APCS_Keate.Unit_3-MovieTheatreSale.iml" filepath="$PROJECT_DIR$/.idea/modules/Unit 3/MovieTheatreSale/APCS_Keate.Unit_3-MovieTheatreSale.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Unit 3/MovieTheatreSale/APCS_Keate.Unit_3-MovieTheatreSale.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Unit 3/MovieTheatreSale/APCS_Keate.Unit_3-MovieTheatreSale.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Unit 3/MovieTheatreSale/APCS_Keate.Unit_3-MovieTheatreSale.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Unit 3/MovieTheatreSale/APCS_Keate.Unit_3-MovieTheatreSale.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Unit 3/TaxPayer/APCS_Keate.Unit_3-TaxPayer.iml" filepath="$PROJECT_DIR$/.idea/modules/Unit 3/TaxPayer/APCS_Keate.Unit_3-TaxPayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Unit 3/TaxPayer/APCS_Keate.Unit_3-TaxPayer.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Unit 3/TaxPayer/APCS_Keate.Unit_3-TaxPayer.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Unit 3/TaxPayer/APCS_Keate.Unit_3-TaxPayer.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Unit 3/TaxPayer/APCS_Keate.Unit_3-TaxPayer.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Unit 4/LoanTable/APCS_Keate.Unit_4-LoanTable.iml" filepath="$PROJECT_DIR$/.idea/modules/Unit 4/LoanTable/APCS_Keate.Unit_4-LoanTable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Unit 4/LoanTable/APCS_Keate.Unit_4-LoanTable.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Unit 4/LoanTable/APCS_Keate.Unit_4-LoanTable.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Unit 4/LoanTable/APCS_Keate.Unit_4-LoanTable.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Unit 4/LoanTable/APCS_Keate.Unit_4-LoanTable.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Unit 4/LotteryRevisited/APCS_Keate.Unit_4-LotteryRevisited.iml" filepath="$PROJECT_DIR$/.idea/modules/Unit 4/LotteryRevisited/APCS_Keate.Unit_4-LotteryRevisited.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Unit 4/LotteryRevisited/APCS_Keate.Unit_4-LotteryRevisited.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Unit 4/LotteryRevisited/APCS_Keate.Unit_4-LotteryRevisited.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Unit 4/LotteryRevisited/APCS_Keate.Unit_4-LotteryRevisited.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Unit 4/LotteryRevisited/APCS_Keate.Unit_4-LotteryRevisited.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Unit 4/MadLibs/APCS_Keate.Unit_4-MadLibs.iml" filepath="$PROJECT_DIR$/.idea/modules/Unit 4/MadLibs/APCS_Keate.Unit_4-MadLibs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Unit 4/MadLibs/APCS_Keate.Unit_4-MadLibs.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Unit 4/MadLibs/APCS_Keate.Unit_4-MadLibs.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Unit 4/MadLibs/APCS_Keate.Unit_4-MadLibs.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Unit 4/MadLibs/APCS_Keate.Unit_4-MadLibs.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Unit 5/ReportCards/APCS_Keate.Unit_5-ReportCards.iml" filepath="$PROJECT_DIR$/.idea/modules/Unit 5/ReportCards/APCS_Keate.Unit_5-ReportCards.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Unit 5/ReportCards/APCS_Keate.Unit_5-ReportCards.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Unit 5/ReportCards/APCS_Keate.Unit_5-ReportCards.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Unit 5/ReportCards/APCS_Keate.Unit_5-ReportCards.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Unit 5/ReportCards/APCS_Keate.Unit_5-ReportCards.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Unit 6/Compact/APCS_Keate.Unit_6-Compact.iml" filepath="$PROJECT_DIR$/.idea/modules/Unit 6/Compact/APCS_Keate.Unit_6-Compact.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Unit 6/Compact/APCS_Keate.Unit_6-Compact.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Unit 6/Compact/APCS_Keate.Unit_6-Compact.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Unit 6/Compact/APCS_Keate.Unit_6-Compact.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Unit 6/Compact/APCS_Keate.Unit_6-Compact.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Unit 6/MadLibsRevisited/APCS_Keate.Unit_6-MadLibsRevisited.iml" filepath="$PROJECT_DIR$/.idea/modules/Unit 6/MadLibsRevisited/APCS_Keate.Unit_6-MadLibsRevisited.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Unit 6/MadLibsRevisited/APCS_Keate.Unit_6-MadLibsRevisited.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Unit 6/MadLibsRevisited/APCS_Keate.Unit_6-MadLibsRevisited.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Unit 6/MadLibsRevisited/APCS_Keate.Unit_6-MadLibsRevisited.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Unit 6/MadLibsRevisited/APCS_Keate.Unit_6-MadLibsRevisited.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Unit 6/SoccerStatistics/APCS_Keate.Unit_6-SoccerStatistics.iml" filepath="$PROJECT_DIR$/.idea/modules/Unit 6/SoccerStatistics/APCS_Keate.Unit_6-SoccerStatistics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Unit 6/SoccerStatistics/APCS_Keate.Unit_6-SoccerStatistics.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Unit 6/SoccerStatistics/APCS_Keate.Unit_6-SoccerStatistics.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Unit 6/SoccerStatistics/APCS_Keate.Unit_6-SoccerStatistics.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Unit 6/SoccerStatistics/APCS_Keate.Unit_6-SoccerStatistics.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Unit 7/School/APCS_Keate.Unit_7-School.iml" filepath="$PROJECT_DIR$/.idea/modules/Unit 7/School/APCS_Keate.Unit_7-School.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Unit 7/School/APCS_Keate.Unit_7-School.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Unit 7/School/APCS_Keate.Unit_7-School.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Unit 7/School/APCS_Keate.Unit_7-School.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Unit 7/School/APCS_Keate.Unit_7-School.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Unit 7/Student/APCS_Keate.Unit_7-Student.iml" filepath="$PROJECT_DIR$/.idea/modules/Unit 7/Student/APCS_Keate.Unit_7-Student.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Unit 7/Student/APCS_Keate.Unit_7-Student.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Unit 7/Student/APCS_Keate.Unit_7-Student.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Unit 7/Student/APCS_Keate.Unit_7-Student.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Unit 7/Student/APCS_Keate.Unit_7-Student.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Unit 8/TicTacToe/APCS_Keate.Unit_8-TicTacToe.iml" filepath="$PROJECT_DIR$/.idea/modules/Unit 8/TicTacToe/APCS_Keate.Unit_8-TicTacToe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Unit 8/TicTacToe/APCS_Keate.Unit_8-TicTacToe.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Unit 8/TicTacToe/APCS_Keate.Unit_8-TicTacToe.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Unit 8/TicTacToe/APCS_Keate.Unit_8-TicTacToe.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Unit 8/TicTacToe/APCS_Keate.Unit_8-TicTacToe.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Unit 9/StudentRevisited/APCS_Keate.Unit_9-StudentRevisited.iml" filepath="$PROJECT_DIR$/.idea/modules/Unit 9/StudentRevisited/APCS_Keate.Unit_9-StudentRevisited.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Unit 9/StudentRevisited/APCS_Keate.Unit_9-StudentRevisited.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Unit 9/StudentRevisited/APCS_Keate.Unit_9-StudentRevisited.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Unit 9/StudentRevisited/APCS_Keate.Unit_9-StudentRevisited.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Unit 9/StudentRevisited/APCS_Keate.Unit_9-StudentRevisited.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/APCS_Keate.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/APCS_Keate.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/APCS_Keate.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/APCS_Keate.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/APCS_Keate.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/APCS_Keate.util.test.iml" />
+    </modules>
+  </component>
+</project>

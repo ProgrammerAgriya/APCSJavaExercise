@@ -1,0 +1,154 @@
+<html>
+<p><strong>Tax Payer</strong></p>
+
+<p>Federal income tax rates can be calculated using tax rate schedules.  The following are tax rates for two out of the four categories used by the IRS in 2020 based on
+    information from Kiplinger found <a href="https://www.kiplinger.com/article/taxes/t056-c000-s001-what-are-the-income-tax-brackets-for-2020-vs-2019.html">here</a>.<p>
+    <br>The tax bracket for those filing with <strong>single</strong> status can be found below.
+<p></p><style>
+table, th, td {
+  border: 1px solid black;
+}
+</style>
+<body>
+<table>
+    <tr>
+        <th>over:</th>
+        <th>but not over:</th>
+        <th>your tax is:</th>
+        <th>of the amount over:</th>
+    </tr>
+    <tr>
+        <td>$0</td>
+        <td>$9,875</td>
+        <td>10%</td>
+        <td>$0</td>
+    </tr>
+    <tr>
+        <td>$9,875</td>
+        <td>$40,125</td>
+        <td>$987.50 + 12%</td>
+        <td>$9,875</td>
+    </tr>
+    <tr>
+        <td>$40,125</td>
+        <td>$85,525</td>
+        <td>$4,617.50 + 22%</td>
+        <td>$40,125</td>
+    </tr>
+    <tr>
+        <td>$85,525</td>
+        <td>$163,300</td>
+        <td>$14,605.50 + 24%</td>
+        <td>$85,525</td>
+    </tr>
+    <tr>
+        <td>$163,300</td>
+        <td>$207,350</td>
+        <td>$33,271.50 + 32%</td>
+        <td>$163,300</td>
+    </tr>
+    <tr>
+        <td>$207,350</td>
+        <td>$518,400</td>
+        <td>$47,367.50 + 35%</td>
+        <td>$207,350</td>
+    </tr>
+    <tr>
+        <td>$518,400</td>
+        <td>---------------------</td>
+        <td>$156,235 + 37%</td>
+        <td>$518,400</td>
+    </tr>
+</table>
+</body>
+<br>The tax bracket for those filing with <strong>married</strong> status can be found below
+<p></p><style>
+table, th, td {
+  border: 1px solid black;
+}
+</style>
+<body>
+<table>
+    <tr>
+        <th>over:</th>
+        <th>but not over:</th>
+        <th>your tax is:</th>
+        <th>of the amount over:</th>
+    </tr>
+    <tr>
+        <td>$0</td>
+        <td>$19,750</td>
+        <td>10%</td>
+        <td>$0</td>
+    </tr>
+    <tr>
+        <td>$19,750</td>
+        <td>$80,250</td>
+        <td>$1,975 + 12%</td>
+        <td>$19,750</td>
+    </tr>
+    <tr>
+        <td>$80,250</td>
+        <td>$171,050</td>
+        <td>$9,235 + 22%</td>
+        <td>$80,250</td>
+    </tr>
+    <tr>
+        <td>$171,050</td>
+        <td>$326,600</td>
+        <td>$29,211 + 24%</td>
+        <td>$171,050</td>
+    </tr>
+    <tr>
+        <td>$326,600</td>
+        <td>$414,700</td>
+        <td>$66,543 + 32%</td>
+        <td>$326,600</td>
+    </tr>
+    <tr>
+        <td>$414,700</td>
+        <td>$622,050</td>
+        <td>$94,735 + 35%</td>
+        <td>$414,700</td>
+    </tr>
+    <tr>
+        <td>$622,050</td>
+        <td>---------------------</td>
+        <td>$167,307.50 + 37%</td>
+        <td>$622,050</td>
+    </tr>
+</table>
+</body>
+<p></p>
+    <strong>Assignment:</strong>
+    <br>    Write a program to calculate a person's taxes when given their marital status and income.
+<p></p>
+1. Fill in the constructor with parameters to initialize the instance variables. Trim the String <strong>status</strong> to make sure
+there are no leading or trailing spaces. Then, assign the instance variable <strong>married</strong> to true if <strong>status</strong>
+holds "married" (in upper or lowercase) and false if <strong>status</strong>
+holds "single" (in upper or lowercase). Any invalid status is dealt with in the given
+else statement. Then, initialize <strong>taxableIncome</strong> to income. Any invalid income is dealt with in the given
+if statement below.
+<div class="hint">
+    Remember to save the result of trimming <strong>status</strong> so that you can use it!
+</div>
+2.  Create the necessary getter methods to make sure the instance variables are accessible.
+<p></p> 3. Write the methods, <strong>calcSingleTax</strong> and <strong>calcMarriedTax</strong>, to calculate and return the taxable income of
+a person with the given marital status and income.
+<div class="hint">
+    Note the modifiers on these methods are <strong>private</strong>. These are helper methods - they help
+    achieve a different task within the class <strong>TaxPayer</strong> but are not used or accessible in any other
+    class.
+</div>
+4. Write the method, <strong>calcTax</strong>, to calculate and return the taxable income of
+any person.
+<div class="hint">
+    You will need to use your helper methods and if-statements to achieve this!
+</div>
+5. Verify that the program gives the taxes for people with the following tax information.
+<strong> Please be sure to enter these people in this order or your program will not test correctly.</strong>
+<p></p><strong>Marital Status:</strong> Single
+<br><strong>Income:</strong> $100,000
+<br><strong>Marital Status:</strong> Married
+<br><strong>Income:</strong> $200,000
+<p></p> 6. Make sure your name is commented out near the top of your source code.

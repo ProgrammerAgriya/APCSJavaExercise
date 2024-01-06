@@ -1,0 +1,27 @@
+type: edu
+files:
+  - name: test/EasterTest.java
+    visible: false
+    encrypted_text: ITs8Nv8EH6QWJG5nufD7nL+5+4bhYoXDvmVthWtIgQ65QGrosPwl8pWa8Roz0DaO2BS/o8Fwh/HhGdumkhnhQeH9SHQYvvqZQL2XBx5cMnkO+ErtO/veLtsnT00lR5LUaTYyk5Xuz3QQ7ao9JDyoHfm4XZ5AB0+tSbVPAhvHhdpnqRzgf2yNxwzeIwdHL6zt1EmbWWZvZ0r2ZdVEatcHtHQoU2Nqc7vdS+wjWTwluuXhT7X4ugUz4EWT/tk9R2CWyLJ2dE7myRfqJ9L8c/sYe3xKi1uAC7dD0PX9sEEReYEEtkUOo4YYRpZk3H9jCSmlxc5tDF0shChv4pNbyA+mSTgHY4MwWac9NG3iYviRhoorKvH3yEzB1NpPSzXSewhY
+    learner_created: false
+  - name: src/Easter.java
+    visible: true
+    placeholders:
+      - offset: 100
+        length: 490
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 100
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: V9GcPHIsT4upFQ1OFKnKq8N1WBfPHeAbw/yW1rCIeGggFbR9tO/47xRatE9HJ751rIYYvV67lW43hMNJgLandYRvOEvLp5D0ovVxm93iYHhfMof4Snszn3rqfyPQ0dY+zE/UaShAHWy6ymT3cs7BTMwT9lrA8n+4sVcR6BQki8Av5CAJtkcoygVDHyJLsu/A8MR6y3BgDad2OXVixCqBQI/0YHsVsTrM48w60gRwQYJ/lpCfIEqan+sPu1NZZA1yOER6CWguGeR2NRzA1ttEw9FaQQq8QcEPw+u14G+mVbmF2etlbSDmCIgrTUrL2tgoySwKeigeALStzfOVhmo6ZyG3eGa/UujeVMiUExd2MXq4Hx8bncFjqBAIs8ygGIFHtZmM2WP77C9RV3v9TI0rWwFXQ8SVEHm8yP0U+Uv+JAXqoJ96BaGllLxOHKNPUhW5Ou7BRkPgDysLgSzkbW0edIbx++NdbVQ8t/C7/SxViM+sZ51rh1ytvHaCazByXcooe1rfu39dKXD3ahrxHnkjAZLINr3/B+ZtCmUhJrqXIG/KSdEMugcQ1mnHMPROSbF8N3cD7+2QODJdAIaciRp65i3xoaKU+Jkn2tbT/H2PdMXRLg8V+m56SMGZgEmQpSblDBQZqhAhbrYxF6hDSxqqZucme94G4t6kD8EdaIyLJp0=
+    encrypted_text: TAc79Gyp/QQG03i0VuY1nFo+KVxKx/RjTP9Zodj6MpC32s0DQ6naftoNMNRxE8nVN0Np6ntrxbFujl4u03vBy5Q9k9ZhTW0fuysxjLJRTMZEGHQpNTNIrPM/v21irMpaADbxWz46e1unBHgFt3wfuWbKCnVv2ClSHEo65fZq+g6ghLVvTZ8aa8GlaJLVh44h+MiX9GD7OoAmSWJa9JtrKhZvp+nF8u1vjQEPBDb0toHx+FgS/9aYRpEE8W3B65HTHnF53KbCRholvNFUQeHOjOpsj/WKVxpYjsr2dcWRwesguRpwc3G1MQSxV7QJbCDU5Lxp51Y3Zi0jWbMpAPISZq5xsw+0kROJXD2vzw2SkZh4jGDJHJfYiwD1i1MMqBA9hrrl/0lDvaqjzcUkZxSa9T5XIvKEbt/Igc+EyD3JU70=
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 31 Dec 2023 02:30:16 UTC"
+record: -1
+solution_hidden: true

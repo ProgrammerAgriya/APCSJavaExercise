@@ -1,0 +1,129 @@
+<html>
+<p><strong>School</strong></p>
+
+<p>Many different programs exist to store, sort and create different lists of students of schools.
+    Students can be examined in many different ways through the characteristics they hold.
+<p></p>
+<strong>Assignment:</strong>
+<br>This is the second of our two labs examining a school of students. In this lab, you will be focusing on the
+<strong>School</strong> class. <strong>Schools</strong> have four different <strong>ArrayLists</strong> of
+<strong>Students</strong> representing the four different classes in high school in the US.
+<p></p>
+1. Copy and paste the code you wrote for the <strong>Student</strong> class in the last lab to fill in the
+<strong>Student</strong> class.
+<p></p>
+2. Fill in the missing parts of the constructor without parameters to read in the necessary information to create a
+<strong>School</strong>  object.
+<p></p>
+<div class="hint">
+    Use a loop and a control (if) statement to determine which list to add a new <strong>Student</strong> to. If <strong>year</strong> is 1, a new
+    <strong>Student</strong> would be added to <strong>year1</strong>, if <strong>year</strong> is 2, a new
+    <strong>Student</strong> would be added to <strong>year2</strong>, and so on. The loop should terminate when a number
+    other than 1, 2, 3, or 4 is entered. Use the no parameter <strong>Student</strong> constructor when adding a new
+    <strong>Student</strong> to the list. When adding to a list, you may want to access the <strong>ArrayList</strong>
+    class methods found in its
+    <a href="https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/ArrayList.html">API</a>.
+</div>
+<div class="hint">
+    At the end of the loop, don't forget to read in a new value for <strong>year</strong>. The <strong>Scanner</strong>
+    class methods are found in its
+    <a href="https://docs.oracle.com/javase/10/docs/api/java/util/Scanner.html">API</a>.
+</div>
+<p></p>
+3. Complete the constructor with parameters by setting the instance variables to the values in the parameters.
+<p></p>
+<div class="hint">
+    Use the keyword <strong>this</strong> to help differentiate between instance variables and parameter variables.
+</div>
+<p></p>
+4.  Fill in the getter methods for this class. There are 4 <strong>private</strong> instance variables, so there should
+be 4 getter methods.
+<p></p>
+<div class="hint">
+    Use the <strong>alphabetizeList</strong> method before returning each list to ensure the lists are sorted.
+    Assume that it is working as intended so that you can use it freely.
+</div>
+5. Fill in the <strong>deansList</strong> method, making sure to fill in the type returned and the method body. The
+Dean's List includes all <strong>Students</strong> with a GPA of 3.75 or above.
+<p></p>
+<div class="hint">
+    To create a Dean's List, you will need to create a new <strong>ArrayList</strong> to hold students with GPAs of 3.75 or
+    above. Traverse through all of the <strong>ArrayList</strong> instance variables and find <strong>Students</strong>
+    to add to the new list. When adding to the list, you may want to access the <strong>ArrayList</strong>
+    class methods found in its
+    <a href="https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/ArrayList.html">API</a>.
+    After adding all of the eligible students to the list, sort the list using the
+    <strong>alphabetizeList</strong> method. Assume that it is working as intended so that you can use it freely. Then,
+    return the list.
+</div>
+<p></p>
+6. Complete the <strong>calcSchoolAverageGpa</strong> method to find and return the average GPA of all of the students
+at the school.
+<div class="hint">
+    To calculate the school's average GPA, you will need to traverse through the four lists, access each
+    <strong>Student's</strong> GPA, and add them together. Then, divide by the total number of
+    <strong>Students</strong> in the school.
+</div>
+<p></p>
+7. Fill in the missing parts of the <strong>alphabetizeList</strong> method.
+<p></p>
+<div class="hint">
+    This is done using a modified version of the <strong>selection sort</strong> found in the
+    <a href="https://drive.google.com/file/d/18DOakHMYtig6Ms2UVupYL9BvnNzWJKYk/view?usp=sharing">Unit 7 Slideshow</a>.
+</div>
+<div class="hint">
+    First, compare the last names of the <strong>Students</strong> at indices <strong>inner</strong>
+    and <strong>min</strong>. If the <strong>lastName</strong> of the student at <strong>inner</strong> comes
+    before the <strong>lastName</strong> of the student at <strong>min</strong>, <strong>min</strong> should become <strong>inner</strong>.
+    If the last names of the <strong>Students</strong> at indices <strong>inner</strong>
+    and <strong>min</strong> are the same, compare the <strong>firstName</strong>s.
+    If the <strong>firstName</strong> of the student at <strong>inner</strong> comes
+    before the <strong>firstName</strong> of the student at <strong>min</strong>, <strong>min</strong> should become <strong>inner</strong>.
+    The <strong>String</strong> class methods are found in its
+    <a href="https://docs.oracle.com/en/java/javase/15/docs/api/java.base/java/lang/String.html">API</a>.
+</div>
+8. Fill in the <strong>findStudent</strong> method, making sure to fill in the type returned and the method body.
+<p></p>
+<div class="hint">
+    Traverse through the instance variable lists in <strong>School</strong> and compare
+    each <strong>Student's</strong> ID number with <strong>id</strong>. If a <strong>Student's</strong>
+    ID number matches <strong>id</strong>, return that <strong>Student</strong>. If <strong>id</strong>
+    does not match anyone's in the school, return <strong>null</strong>.
+</div>
+<p></p>
+9. Fill in the <strong>removeDoubles</strong> method to remove any <strong>Students</strong> who are doubled in any instance
+variable lists. This method removes the <strong>Student</strong> objects in schools that are the same so that only one remains.
+No <strong>Student</strong> objects across lists are equal. For example, there are no <strong>Student</strong> objects
+in <strong>year1</strong> that are equal to <strong>Student</strong> objects in <strong>year2</strong>,
+<strong>year3</strong>, or <strong>year4</strong> and there are no <strong>Student</strong> objects in
+<strong>year2</strong> that are equal to <strong>Student</strong> objects in <strong>year1</strong>,
+<strong>year3</strong>, or <strong>year4</strong>, and so on. This method returns a count of the number of objects that
+have been removed.
+<p></p>
+<div class="hint">
+    Initialize a count variable at the top of the method and increase it every time you remove a doubled
+    <strong>Student</strong>. Return this variable at the end of the method.
+</div>
+<div class="hint">
+    You will need a nested loop to ensure you have checked all of the <strong>Students</strong> with each other.
+</div>
+<div class="hint">
+    When comparing <strong>Students</strong>, you will need to check two things:
+    that they are not the same object (so you don't accidentally remove a singular <strong>Student</strong>)
+    <strong>and</strong> that they are equal according to the
+    <strong>equals</strong> method in the <strong>Student</strong> class.
+    Assume that <strong>equals</strong> is working as intended so that you can use it freely.
+</div>
+<div class="hint">
+    When removing objects from a list, you may want to access the <strong>ArrayList</strong>
+    class methods found in its
+    <a href="https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/ArrayList.html">API</a>. If you
+    start from the beginning of the lists, be sure to decrement the index you are using after you remove an object so
+    that you do not inadvertently skip over an object.
+</div>
+<div class="hint">
+    You need to repeat similar code through all four lists to catch doubles in all of the lists.
+</div>
+10. Make sure your name is commented near the top of your source code and use the given <strong>SchoolClient</strong>
+class to test the accuracy of your code. You may alter this class to fit your needs and test appropriately.
+</html>

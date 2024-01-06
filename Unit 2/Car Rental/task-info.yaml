@@ -1,0 +1,72 @@
+type: edu
+files:
+  - name: src/CarRental.java
+    visible: true
+    placeholders:
+      - offset: 920
+        length: 10
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 752
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: FNAHx5WoQQSNGlzwMpKmtYdStpw0aoqbnDk78Lxt5vT2oVbMPaYRrPxabSVHDHmMhqULYC5yFA7JYCnh5frbaqk3qZIQA8tehZ0rB+2lcjDp01+QGbg3K9sKTpYUEyRp
+      - offset: 952
+        length: 4
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 783
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: jpRsZwmE82OquTQTPJplDVsiv/6lGK67NLk81DnSEHrCd8b1kL/581WXMjpOJ34e2mcyDSHW0NIndvGFNaXd1vz1vOyRyJ5CjT29VX4iQq8=
+      - offset: 982
+        length: 19
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 817
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: 6V6LTCB/Bbv/bIDJFOPAk+Zrz8E3fc72Ilbv6v88jWHniJYrM9YlSrqbJvNVvFJQ
+      - offset: 1017
+        length: 28
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 842
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: afIGewM+PHSjjyvBKxAxjr20byosqoH2wGmnN9j0XP4=
+    encrypted_text: ubd06iXMrzX7Eg3IUgR80s0J+8aOt4I3zPFYA1HCpRY89kadBmTZ5xwB4W4wpYykPei7+SaY5E9SDNmfxcZvhiUpsSoyMNtnehBjX0Ev+almxCbCrDw9sI9zG9TVXKAry7goykoSQ+l/RbPhEXGsL/GX+ODemyftXSCbbySexKk6/ya7On/Qwd2/J3lWnDgxiEnkZ7CyVVcr1DysvOEixFyFD5Y5dS83dqrcMPJ7Y9omfS99byPebqa0Y06+amQVST5ZCiv1FpIFJblxf70hrgg//uffLMoiy5i6e4u453PrHLFQFgljYhvIXsQdst82y6B96lsQ9NPrdgrSc/b80L3YK1qjmrJvTp1/KdU/mgAkUC6bj13LjHG86kIyLPxCRBDV8Y+2PaWLcR08fx+REg7CaNABktXZu1Ai5tziV8YNfl0k2tOknWNA9/CT6XThhuV/t1Z4k2nHZMHXUNB4l1jXAx04UbGB6U4wZTqm3+GgcK+04og3co9KQoRDKAlj09yEkXpQu7b5yEwBT3pOltLSsnUhtkuFv8Ez8N0E+Bd9nqtf193AMXzfYHK2x1VzJpZv28dtDV5IzkA1qJ4oZtIb9QM4QWqjySIYaoN4w6rd+NA8aGAoyOyaohj1ghuVi78h9oYEiLbh8UTRsPRvW1K9L+cojwm9lLOy3y4K9yyM2R4+2Mayx0HRbyDNGMx/zJ+vbMXOP5ZKkI19IxHFc8BLVRljyOtsFxEzujckplZAGoO5yB/qs12uStyh2QfrvJpx0DuITwuOp1Vcp7Ntz0xX3zqlMaPLqqYKsT3cK0R3ywSJVhJbeDatgVYzDedzIy8n5kBGxcDIQY3Tmf3D4jICX4o0ir8qudBhVTMNCOzQhCBm7gsRNxgkGfeQtNjIe+N9MW3daucbF7z48ReZOTLM6RbXPonP6IlPn3OeFxSM9kVM6mbIqWNUs+Li+XbbbW6saHVamA1nyQf/O7YAPJLiEv2+Z0TNO2SsfMt+tLwpoxmwmun/1uhtqSr7Nf1XsD1sS4v2VJWFLX2DinISLI1tfqvjlQ/v7RVurAyWsempvSAcs46RXwQ5hI9s7+IXTcOxYgE5M3OzaByhNKM8wyXF93/FZYvzDcLF/2jEK7tjX54CHgx+HytHOTw8SvqwRB/sbonib7FatGLHqoG5Y2x5x5FZ7VziV7ncsNAT8GWqBQh55OgcJdMRMbmFnPed+vHKSndZd30khSLAfJvap0Nu+ebQSbbMFAG7zq5+jrAw9pIJjtq19qJD+cLdsHfNB17tHQyVPkHZRlnUIJvdPabZSLDgVYVGvYgBPLvBU4w0vhzCmGHIls7aanh7AvNZjgqjFNmsSCjgEJ6KeFo8Rau9Mv23X2KH77ok8cQYKWxtGKBmnj2wMl7CXVBWdnZC3blxQ0LEN4k0KYstsqzfWL3NmjUi9cKN1cGDmbm3X9UxFEwMmlParB/QVWMW2BJIAHEeATqImn7OZNW+uXCegmlvgTt9b3EPBUatl+nFud0=
+    learner_created: false
+  - name: test/CarRentalTest.java
+    visible: false
+    encrypted_text: ITs8Nv8EH6QWJG5nufD7nL+5+4bhYoXDvmVthWtIgQ65QGrosPwl8pWa8Roz0DaOp1blHdgYyDiosEIRht0xNXiFFAyvsvdCIuTisL0/CvVWO1GiooCjDdkmEbUL0WQf+6cMPKoZTcqOnIaSBYVQ7gCZeXKPhJ8ew5oZ+YbMV6HJUyjqz3+Ahzh11oKN41uA6+UmJwqBivdP0Tc+W6QplL19xPVVXuZb9mZ12mkhwOj1ND8qijXQUc4NmemNGyO44DDyNPTtKQNe4M0XN6HQ+MngZ7f06L5vcNTM4N4DX+qymyxkQ1/yVC/O7moXDL1PQ9xdJrMCpiH0zaMkOE+AJEND6a7poPCeGkiJowGB097HgABRcmSckgHGtrZ4Jtot9rh0f4mmJycM/63BeCsKasNGq6Mft37QbJFUV6Rq861uevPBR1Ic5eG/vj8INksvE/G4CiTGw6oz8xS4t2rKHJVYgV1SVHMjI6vi1LvHZeB+NJcCVI0+9t/Jk6n/t/phWVb+TPz32UFE98gtc1krQDj2xpdIbvatiCoE76dAhV1Mf7rqOXck5YGbpGQIzWr4aTLCwY9C+wkeu3ZBs1t2VA==
+    learner_created: false
+  - name: src/CarRentalClient.java
+    visible: true
+    placeholders:
+      - offset: 88
+        length: 45
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 88
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: 1+QfzmxhdlStWSvrvLKjMRrYo4ldTm4wFYamSmJjhtfGp9tHDdDhOjrutndLP1duCH4vK5xkA6Xu9muvrSaK5BtpwQfBi6b7dtO/dFNTDeU=
+    encrypted_text: ubd06iXMrzX7Eg3IUgR80o319/WIy1uXmzdM7Y0u1it2YOdydyjgT8t3+SqYuihzFBrRYYPC1W/Yw5xBOVLPbgtLwjwXAmGlkVXfKqMz6bEfDz2XH701xBB6r+Zps68G9XLRQV+6Eaz1QJfMxM38SZtPkGqV7hK270A4y+wXYoaWUqsEqaHMf5KriWx4snm6
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 31 Dec 2023 16:45:26 UTC"
+record: -1
+solution_hidden: true

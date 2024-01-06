@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CoinsTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-12-31T02:41:01" hostname="HPLAPTOP" time="0.005">
+  <properties/>
+  <testcase name="testSolution" classname="CoinsTest" time="0.005"/>
+  <system-out><![CDATA[3
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

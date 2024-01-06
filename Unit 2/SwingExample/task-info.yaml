@@ -1,0 +1,47 @@
+type: edu
+files:
+  - name: src/SwingExample.java
+    visible: true
+    placeholders:
+      - offset: 497
+        length: 94
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 497
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: WOvcnKGWT8eisPJgyJKK3fImk07pQXd6+9VD3cmvMqW2FTGKYwkdBznbJRyEUbHuP2BEZYgVc8LUejOH05oquN7IIp94QABqzcSAjaB1yD+4yw3rqDXmYKtnEzNrtIZ4
+      - offset: 1076
+        length: 320
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 990
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: C5o3i2hpqU2g2bIbI1bkGeLKvJrGAQoZhakEPtSjYfB4GdfvUBmgNSD0mwQrCEwcs2uCTyfwI+j2rLp3SmTx6f0VYtRN/qg2sXt1SG4s1EQWUJLJ+GEpoCL2P3wwPLtUfC1wUXYkRjtFI5hF2LJLobOf3ru6JW8vQ8QoyQfd/9molVX4j2K43yWHMbAU1BIrTdDdzJfaLpupx/o2vwtRwYAW+RsPZkb5VAEM3TcTOvc4d6NY43Wa+qGKQyOOt6fFBEpKIgjY1VE9L9is2bU0ROZZ9RpgsVVMr1DzqgwltjMBV7USPAHzcjj9Xw0FUurgWUD1Qg7J9WjEp8fUtFkqiA==
+      - offset: 1912
+        length: 229
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 1514
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: qGAqVNDZqP4TgDOKwouBTkABbVp8R3RluJifCL91bb28MNxxjjHByFpYvWlWHj6fqrBr6Ks1vsJ9wQittV2iTr3jEkqIM3k6Rh5HLcB+qyHfQKr3pO4ad0C3AyIzIh8fNyQ6fz8hpIf3OIDXg/+0egOWob9jaIYVHCTP+s4P9Fx/XNR14DUBrr60sYg0mZWPX2tJcZGchnv6qr8mVvzKZsDfmh8GmGg5hspwFUfJW+ZteZhmlE0ZxbheIIfQruTnFaOWMjW/JJn3/N3pjyUxusPiWMasITOzoF80btbxjEGkBLwmRhZ0rxYiXD8/4mt1w1ED1M4cGwOX9T9udaX5xQ==
+    encrypted_text: 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
+    learner_created: false
+  - name: test/SwingExampleTest.java
+    visible: false
+    encrypted_text: ITs8Nv8EH6QWJG5nufD7nL+5+4bhYoXDvmVthWtIgQ65QGrosPwl8pWa8Roz0DaOJnYYWLzF7j0Mldun0j2pXvGWIwZWww7kRNSkZitpeWcuYaGkFMC8OXzwJctc27AaQmDATSamOxOSnVa8EoNbQVEo0rHrdNzvPaLy/Bii64sPj6vjYZJlqn4TXON6Gz+CD223L3kC4O2ZI/W3U3uI0Gg1lpZ/cuHwKuz48hsAzU7sb1g/ZKER415dZeBTDtpG4aPCrwoX9Inz6PXo69ygEXNsJv4oSZgOCsLxgugkZh91bn4y4Sb+ILQNJAnmPhSvFRt4OEp3MFj7o3Mw+BzXYOdHBlbwAbJqlsWSgRiuNu5mauCKzlIbBLWu5dm9rnnvZ9ieTK7XMRTJj375eScoEA==
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 02 Jan 2024 19:28:22 UTC"
+record: -1
+solution_hidden: true

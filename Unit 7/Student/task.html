@@ -1,0 +1,75 @@
+<html>
+<p><strong>Student </strong></p>
+
+<p>Many different programs exist to store, sort and create different lists of students of schools.
+    Students can be examined in many different ways through the characteristics they hold.
+<p></p>
+<strong>Assignment:</strong>
+<br>You will be examining a school of students over the next two labs. In this lab, you will be focusing on the
+<strong>Student</strong> class. <strong>Students</strong> have first and last names, ID numbers, GPAs, and expected graduation years.
+Their GPAs are calculated from an array of chars.
+<p></p>
+1. Fill in the missing parts of the constructor without parameters to read in the necessary information to create a
+<strong>Student</strong> object.
+<p></p>
+<div class="hint">
+    Read in the first name, last name, and expected graduation year of the <strong>Student</strong> from the user
+    using <strong>Scanner</strong> class methods and save them in their corresponding instance variables.
+    The <strong>Scanner</strong> class methods are found in its
+    <a href="https://docs.oracle.com/javase/10/docs/api/java/util/Scanner.html">API</a>.
+</div>
+<div class="hint">
+    Remember that you need the length of an array to initialize it. After the grades have been read in as a
+    <strong>String</strong> and trimmed, use some examples to see how the length of the <strong>String, grades,</strong>
+    with spaces in between correspond to the number of grades or <strong>chars</strong> within that <strong>String</strong>.
+    After looking at a few examples, you should see a pattern emerge. Also, remember the difference between
+    <strong>integer</strong> and <strong>double</strong> division. The number of <strong>chars</strong> is the length
+    of the <strong>gradesList</strong> array.
+</div>
+<div class="hint">
+    Fill the <strong>char</strong> array <strong>gradesList</strong>. Pull each <strong>char</strong> out of the
+    <strong>String, grades, </strong> and put it in <strong>gradesList</strong>. You may use the <strong>String</strong>
+    method <strong>charAt</strong> for this.
+</div>
+<p></p>
+2. Complete the constructor with parameters by setting the instance variables to the values in the parameters.
+<p></p>
+<div class="hint">
+    Use the keyword <strong>this</strong> to help differentiate between instance variables and parameter variables.
+</div>
+<div class="hint">
+    Don't forget to call the helper method, <strong>calcGpa</strong> method to set
+    <strong>gpa</strong>. Notice <strong>calcGpa</strong> has a <strong>private</strong> modifier because it is only used
+    internally as a helper method. <strong>public</strong> access is not needed. Assume that it is working as intended so
+    that you can use it freely.
+</div>
+<p></p>
+3.  Fill in the getter methods for this class. There are 5 <strong>private</strong> instance variables, so there should
+be 5 getter methods.
+<p></p>
+
+4. Fill in the <strong>calcGpa</strong> method, making sure to fill in the type returned and the method body.
+<p></p>
+<div class="hint">
+    To calculate the GPA, you will need to traverse through the given array <strong>grades</strong> and find the average,
+    given where A has a value of 4, B has a value of 3, C has a value of 2, D has a value of 1, and F has a value of 0.
+    Other <strong>chars</strong> are not valid, so if another char is encountered, a warning should be printed and the
+    program should be exited using a <strong>System</strong> method, which can be found in its
+    <a href="https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/System.html">API</a>.
+</div>
+<p></p>
+5. Complete the <strong>assignEmailAddress</strong> method to assign students a <strong>String</strong> email. A
+student's email is formatted as follows: the first letter of the student's first name followed by the student's
+last name, the student's expected graduation year, and <strong>@serrahs.com</strong>.
+<p></p>
+6. Write the <strong>equals</strong> method to determine whether two students are equal to each other. Two students are
+equal if their first and last names are the same and if they have the same ID number.
+<p></p>
+<div class="hint">
+    Remember, you cannot always use <strong>==</strong> to compare to <strong>Strings</strong>.
+    The <strong>String</strong> class methods are found in its
+    <a href="https://docs.oracle.com/en/java/javase/15/docs/api/java.base/java/lang/String.html">API</a>.
+</div>
+7. Make sure your name is commented near the top of your source code and use the given <strong>StudentClient</strong>
+class to test the accuracy of your code. You may alter this class to fit your needs and test appropriately.
+</html>

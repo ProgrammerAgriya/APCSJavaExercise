@@ -1,0 +1,92 @@
+type: edu
+files:
+  - name: src/RegularPolygon.java
+    visible: true
+    placeholders:
+      - offset: 458
+        length: 28
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 423
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: pRMqNpLahlr8GrNes3jjigThnHnVloF3JgMk4fFokAk=
+      - offset: 549
+        length: 16
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 494
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: hXMw80Q8C658IrTjAyv2lA==
+      - offset: 700
+        length: 13
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 556
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: 8kqbrZxzDGzGZ0pKLN5/VP5hZaXkDKykwf8CKZcpSwSufFjLxsEEIz5fMzTA1hlf
+    encrypted_text: LYVviNIMEBQWvgd8VwR/1uj2hFpe+euheCQnP2QNmpkVNJZRc0nLDbW7N/CIyhbSO0DZIZvTgiBco9p4mHOxKNHaMVSM/lHOXGGmpoG2qI93c8vXNaI6QBzmpqG3TOTrRuyXzvFNnVx8xogXrelhXi1zaKpW+IOVUdpreS3Zolo1akgQStJru909Zkiye6P/dJEXfIh41W2MiL9CXftgkeD6NSwsPPWvz5ViXRJyaCDuUBEzbnS+QFQbnjX9CtA1VO4h95YwozgZroItH+Oj9NuLHGK8PG66TirjMDM7lQRWO1keor65hC0bV0wz0i8jY+WVZp5iEuvpXcoHhpNVQSx97y+VYJw2F1QHL08Vs93FJH6pU/1tz7Me8y2kP4PoDm0lwGgQwyW7F0sFXXBumIj7T5nG9ekzAiopf0UGAKu0lNyAaLYiCWIgnFVd75PeYZCVZXMNTLRsjg2KeLpbYltbXrZT81Fj8G9B2Dq6H0SG9AVDuUd8/vujU6kQacSLlDfhS4R071nk8AIL9ljHdNcUYoOz5ovtiwe1EDu+RfagqFNMhBfqiT+Vvq4MGmcJjgLIVLK5qxjT6O11kDx4j9fovyy23+ot6ZxOy0JdZKCsK9lMpx9LgsXyOFurz0kmRRRc2ZEngN0PU6SzD38uAi1g9ducHd4tpFExKj6VfxqwWKdS6rAC+7JNKHnvz2QP9m4z2ZZxCCv5PjQe3FInLQgRsvSPwbgky8zOvtDXK6OcEsREtBS1Tcd2z0SvsJ+Vybx4zDme4rZ0LH8IqECf7H7K+KByaSUnaLIIuu3mC0cw7mGikW13mf1i1joWijiS3bs/MRbI7xdMIELEpQ9BF+ylv9M7DmxWF2KR7uiS/MuM5Q/idZvWsn075CXGx/QXegz9T2zH7h34wRs7BRSSZti4yQuNnD0ksVYE7Pgof7/ts4kwaD3NQc5tW8ef+N4GWmvt4W5zBm8E50mPFBh8zz7EvFRf2KY9DyxwPCuypxiqQz4FV/UTC4RQaKRDyDuIwvzHFJTfTWdmaNMOE7i4fq9jS6b4sRd66Ty5d3X1G7FndH6AIDaGO99R41QG6HRgoZYsyN+EiCSWlF6uDesxD1kdziDNMu9hDWAFVDzCZPeslcJVSThNXuSF6Y9YXP1lhkj8qV2iWRYzVrwpxicYCF7pBj6BivUVwi/iwaWXuXpxToAksxhnOO2yJS33xGB9AzZXW/QXez9aBQOhrisxc45Ma6fqEKdxrX+M4hWV3THpfHb7LzW+oqQPYo0g14COAqKuH64/x3F8uXktA+5rnw==
+    learner_created: false
+  - name: test/RegularPolygonTest.java
+    visible: false
+    encrypted_text: ITs8Nv8EH6QWJG5nufD7nL+5+4bhYoXDvmVthWtIgQ65QGrosPwl8pWa8Roz0DaOwez3oU3mVrHO7gOVwmaqHgppl3am5IFLc1ixwIgDNtxKMS8P6sd3T7mH+DtOjlst4Doeaj5+e2g8Qr4nm7QslA+LRNVWmusSCdiZTwoLv2mN/TRS80rcN1elOE8ORKZPUd3lzww/x3T8MiCvNQ3v9PdYkJfTHhHQvXwKP4gJI8sn1aT1kdlhK2+zMLKpd8Ny+DEZI3fP+x1j6UlR9GoWWTOliPNP+Ixnp3tIWaYRr5k0zozugQpZ72KMwkYBr7bTSUc609kqrJh+V8ZgStSJOoERotHVdv8Jh03ohDUf4U61eU7qy6vI3SEFnB/7i8221Lm77RFLE18ioFmez4UJC8tl6GRo4FODs4eMAzASnlLtl4CGvEVfGnYb3L56tDI4IO++J0MDVqHbgTjn4A+DysbqkOH7zqErLUpIwRZWIJdIEu8vkTd8xE0RPdcjW2OO8FQzuwuud2S+zUkbdT47494jaUBUYE1+dT+jxxL9QKH4ZhRRoI2DupCkiYvt4d7vEUyfucBiCKDrq54p0M9QMZCL0VAmtkd2YAmZqCmYFulksGreXDHKTyUnxP1OvIZDKrhO2F0QE3A3w6iW+s3hlsV5xdZHB2nZJn8wjiH/Snsgtu0cnHZBPxIGu7dbkrtf8Ks9feFchILuZ/v22IGQpgW+olV07Xyib2lnLEatKPa9MpJ9/mWbuHW/qTpni1bEUkruePbSS8v+QNCOJQmbS+Wiusoj5RXWpkJ++hjhazoVr/0GfC8VlWKS6v8bOiEy6eviLTOv4QyQB/p0keutZntYjzzgH5zXhoQwSL1QYEApDcvZn+1/tJ0BpRDzqB3aPaxxyuGFBR8as4R/mYxnwrBYA6J5IdsmXjKTYWJv59w=
+    learner_created: false
+  - name: src/RegularPolygonTester.java
+    visible: true
+    placeholders:
+      - offset: 157
+        length: 51
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 157
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: eURCE5Hoybt6PMHLJ8OKsKrIVbLcJ7lqdUYGWnxEIjAhyEpW+lDNenTgt23dqkWuuuE5ofBIHVNMhiB+FCOhRw==
+      - offset: 298
+        length: 24
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 255
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: hJNVRHGu2tG3j9j3FNcc1mXuBk7ebBZg6Sck74udF+Q=
+      - offset: 343
+        length: 24
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 284
+        initialized_from_dependency: false
+        selected: false
+        status: Solved
+        encrypted_possible_answer: CwhSWbRodpxwZRALWsFePsY3CylKgBCL5SP/4gNGqmA=
+      - offset: 390
+        length: 15
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 315
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: qGf5TNgbkbRVf9npCUVvSg==
+    encrypted_text: LYVviNIMEBQWvgd8VwR/1ucZnQqFOfS4l98ewbbfkwT9xYZXzl7ZZPA44eUPys/moVujD+wF+41UgsA6SrkO2zhp0abGB+TOkVlrJDGjoK6L/R4l5YXVQfbbrRRiCoiDwq7SUHs4W3uHxuM9W/wHdW/m7Pt+Wt+2YNmDtg6wsKt64tJanrp6YfwfwxRRPB/ct20mJqxMIkhBIxFcUeq/CY5sf8+e/B2nzsC7G1uRht+7dlE053M8iiX/X+DF4JpGR5tekacLpdyjCjYJtk2JY8fz5V33d/jPButkoRDd2pPMB7Sj/QM4wt7e8aQ7TNRU5DVwsIcZM3v6RF2HqQ4kUg1PQfth1G79RSRk/C4A+u3I6Oii4lFW66yxZ6YYb1K/S9ug70RYwA9/7p6aivKqLjJHwt4rpp9crxXQbdwU4BWz3QtO6OiaZZSr1cdVfeU++vhNgGFGo3cZpYamU99bRSEkId6dK7PvdlyFxtSntNCM+G13GTHpqItlwU8E0+Cr3s5fMYC9JLJ2owBMcXVXb+WlMat4cruh4Gsu5CqPx2e01hj+5ThpU+GGd+GJAbf/3/D8gcrGbKcS6Ff0695fldM4ZqE9oJ/OBBa4biTPvsVK5Rzck7Mlsuf9kZoMS7+LScBMsxUDdTzqn/LkGmNBex0MIcFhO2u64W+g6rfxa/TMNlpCrBE2IfmcmXopVrr2yYvcHwaYcBtd9cF+1Pwdxna8+vFzJRJcOS5Swgolfi0pdgvIxwcXgvLo+zVXyG/u4r0kr5lA5jFJ/g8q4OLPEO6+EL197iIcZRP07J2b4A3dPP+Qqj5V9MPbyHpTxj9WrLykRXlseqcnEJW64MzKG/0iNy3afvXbBDLNa1le9dg=
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 02 Jan 2024 19:00:01 UTC"
+record: -1
+solution_hidden: true

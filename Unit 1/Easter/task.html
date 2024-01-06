@@ -1,0 +1,60 @@
+    <html>
+<p><strong>Easter</strong></p>
+
+<p>An algorithm for finding the date of Easter in a given year was created in 1876
+    and was published in Butcher’s Ecclesiastical Handbook. This algorithm holds
+    for any year in the Gregorian calendar, which means years including and after 1583.
+    Subject to small changes, the algorithm is as follows:<p>
+
+1. Start with the year and call it <strong>year</strong>.
+    <br>2.	Divide <strong>year</strong> by 19 and call the remainder <strong>a</strong>. Ignore the quotient.
+    <br>3.	Divide <strong>year</strong> by 100 and get a quotient <strong>b</strong> and
+    a remainder <strong>c</strong>.
+    <br>4.	Divide <strong>b</strong> by 4 and get a quotient <strong>d</strong>
+    and a remainder <strong>e</strong>.
+    <br>5.	Divide <strong>b</strong> + 8 by 25 and get a quotient <strong>f</strong>. Ignore the remainder.
+    <br>6.	Divide <strong>b</strong> – <strong>f</strong> + 1 by 3 and get a quotient
+    <strong>g</strong>. Ignore the remainder.
+    <br>7.	Divide 19 * <strong>a</strong> + <strong>b</strong> – <strong>d</strong> – <strong>g</strong>
+    + 15 by 30 and get a remainder <strong>h</strong>. Ignore the quotient.
+    <br>8.	Divide <strong>c</strong> by 4 and get a quotient <strong>i</strong>
+    and a remainder <strong>k</strong>.
+    <br>9.	Divide 32 + 2 * <strong>e</strong> + 2 * <strong>i</strong> - <strong>h</strong>
+    - <strong>k</strong> by 7 and get a remainder <strong>r</strong>. Ignore the quotient.
+    <br>10.	Divide <strong>a</strong> + 11 * <strong>h</strong> + 22 * <strong>r</strong>
+    by 451 and get a quotient <strong>m</strong>. Ignore the remainder.
+    <br>11.	Divide <strong>h</strong> + <strong>r</strong> - 7 * <strong>m</strong> + 114
+    by 31 and get a quotient <strong>n</strong> and a remainder <strong>p</strong>.
+<p>The value of <strong>n</strong> gives the month (3 for March and 4 for April) and the value of  <strong>p + 1</strong>
+    gives the day of the month. For example, if <strong>year</strong> is 2003:
+
+    <br>a = 8
+    <br>b = 20
+    <br>c = 3
+    <br>d = 5
+    <br>e = 0
+    <br>f = 1
+    <br>g = 6
+    <br>h = 26
+    <br>i = 0
+    <br>k = 3
+    <br>r = 3
+    <br>m = 0
+    <br>n = 4
+    <br>p = 19</p>
+    <p>In 2003, Easter fell on April 20 (month = <strong>n</strong> = 4
+        and day = <strong>p</strong> + 1 = 20).</p>
+
+<strong>Assignment:</strong>
+<br>    1.	Write a program to solve for the day that Easter falls on
+    for a given year.
+<br>    2.	Verify that the program gives the correct date of Easter for the 2021.
+<br>    3.  Make sure your name is commented out near the top of your source code.
+
+<div class="hint">
+  The date of Easter in 2021 is April 4th.
+</div>
+
+<div class="hint">
+    Pay attention to exactly what each variable should hold.
+</div>

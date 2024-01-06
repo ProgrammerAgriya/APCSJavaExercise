@@ -1,0 +1,126 @@
+type: theory
+files:
+  - name: src/Lottery.java
+    visible: true
+    placeholders:
+      - offset: 273
+        length: 483
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 273
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: n/B9nuQzo37nQKcf4NW+AQq8cEy9gxv8GCkE6uH8L1+zqEkXbEm2ywPJsD4AbdrhLy3YIeDxOWG0fyASbaH6WpxbznnV9Fz+aLVj2jw4hW1N3o5grSTQtKJdZiZ1ByOoiFDM0Y2mpyCsQN6tBbfxoZ/Mo7xRXJePUn8dQbARD31cPf7oxenFeDNOy8Rw5tGwih+ECUDoTOECtI6oJMqnYqszNsxwFPcudiadCHG+lxnKF02owe3+nPmek8kJnvkqkcTTWftd+bDPHaF4y8DGCaXH9+2hCfV1QmxlnUZUhUCmNLUQXksIbL6VRtxUHG7r97qFWJubr7NAscFsuHl0EsI2ea5621O+8HBBv9smOfkhZ288ic7Hifv4S5RQn2Fw7GKvOCkCleDABPoRvXYINpaMVLJbAwx7ZcbzZkPAalchQyU2hvjYJIGkUDHfWfMqVAannCeC1FHR5thfR0nb6Ru2nO50UiaDaA6pGoT9JUEF3/TLZ7c7Za5d6tXTZrqfFaZyfj18onbdg1zP+Rie1sHUmrmdE9reMrXifvQqQpDJhDgNEZ6Qx39J6q8On6WpA9WwRFZv/Qg5tN6Zvb6cqT8ZVTd6kURcCyL0qndu08luezrwg0bV4vLOMn7jRLcojT5mC3bDNu8iyOfRtxT4zQ==
+      - offset: 964
+        length: 85
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 489
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: vInyNoI2yrsAOfPAF6gxNoIx/UHUIZO8cvwa3GMRfjJtF+JeLiVNa3CqWlK2FpFdfSGbYctqU+RDbKVWpUiFRPC18lI2vOb4wbV2QpW5YKehpJL/t/Sw6isbhD2qEMuv
+      - offset: 1228
+        length: 20
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 676
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: aWAPaaZgcpju/p9oTku3iHsG378R41JxFheofUqd5+0=
+      - offset: 1531
+        length: 54
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 967
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: EuKUW8LGu06t/v4pOW9Cdtti8eZWmC3jMv8znu4PBMj5CTJpa2j9pLuamJi8+vzTSAFNybPwm3n7T0HI6cq/Fg==
+      - offset: 1847
+        length: 158
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 1237
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: 1AgyP39nCYoNVGEJ7/emTHw4n7OqdiL2oUgT6F50kolNCCX4M6pbMizGhwP/+74qhDbgcY/MhoOTo/M3Av41GN/exRjdx10Cl5eR7kJdD1XueMCw8q+8fHsdF88W5ampuCw2P/MTzLgWtfFOD0zzp9a3HVGTNZW1m5Am8HA+6LdQVxla+zdF2wnFjmi2Hbda53uDBOPRN99RE5tIGuf3lA==
+    encrypted_text: qHaWFWN0okFAhuXJ+MO//JVSe5LxoXmMg2RDse0mQKFiwxqPhfwludV5zCvuGnOdkjPrEYTteNRFnV2ySLAgNKLUQlmSu7wzMasjv/PVRIAWZ5IFJEyveOT41vdYTfJxoFbb6nnwy7RcuMnTsMlrMTWDAHVqEIPhM97ZFCNXTUaoY6DWYOKDiwqswheVEWhDokv3earOnI44eSWmnw6WLYic4LpeAw59p7AaEp9Cf4bIENpKYlSMJdLh9l1trm0IOBOJ4fh9V9ZWMADf0O4gOf3b2WIBl1OiZHl11h96igR4m+DJyHd53j4FpGT3137qxh/Ut8IA6lgMnZpK/7fYtGVsXtrnbZXHPj/QrRj6IBsYfK77EybfZ4MKGqq7gwSY3qolyrueUKIgp9eyYviUYf/Ygy8ZtMXW1E1HZcF9FrW39Hwv2cOEFCqW/NWdIwoRObohmyziM/QFpcuH+AX1Aq+FTdsDHDIyBIPNfANb7dja+0422WoC066cKl/hgaStGWmj9Qdox3W0WO3INaS5fTs8gZ0GN/L61OTcoQ2umTTvTwwyGASKIpHOlbGPgoUPqcwoRmOxKugx0HChpr3PSHhSB8XKR5/XQisOyBQ71qV9fbb6WraBkvXUZaYY6wU7ksmyAhaPAsojZyiUd8nUF5PJFwS/qZbioc7kKsur1pj7FpZBkeBTmfl2BBDdcI1nmS7yMkqgo065fCWv1bHygxjtPQmz4+y+DnE92yEeUYrtOcGImvJwBjCpaninOCCTH6rT1XpQm8Pbpccsyoqz9Jni2P4zciMH8Rxgm2KZZwdCUTAKpuMgSgW/p0Qwo297Iwke4QZeV43KCWOou4dE2LLF/2tGBNm4L0xPiaLTHNUl6vJmRytFvxhSYXq/0IsByfKaTTc4kpb+8nk4FvtRKkIn184CZe6O/V0g+IQ5iivFFDUqt1Ird+O1T87Pi+xY9h7eeuDbl9IAdAiQ7jI2zgzXWjwcO+k0leagyWqoWGpBdAEZ0yJ3N3RoE4LqgJQ8dnbMLcHBUCnxgO494CTfFtNMPofyG0JCdq9CMLRTculAY/THgkXJre6bSW3rfkscmGX050nN1tt1JYYzZpFzx8UzUzlVL779bQ8c0hhGbuBsz80+BFo12uAa7nASmwB6dixFNqI1sA0erewvWcc9lAqHMYaDKPnjuDgzD71q9D5LXlgJ29oZnzBa5QvXmC+weM/R2s390M/wNghT272qHRNbLBaz74AotymZNcNyH/mVTe/+9vfhTlqalKku1S4Vn+ZCOcxAVTVgkZDWLwcLifYRLdiyfhN7LPss8sNrIvlNol9ghKIcW4rsd9/jlcLTF2R1xo0b4dZMEEBkveqqOz8GGGqWPPN6IZ5kVYVF5V9CZ/D6OdNIXKdnQBVjOchqYe1mQnw1hBFOoO2Y0vtqiQV7TQpIRl7Ti0BKTqkOZR5YJXvEoVRfpcc0dolBI6uCeXUSlYSdgDtlt9Wa1LAQAf/ogwovC+jujOtPsAojwYDauF/4/KJvHSR6oPn/tfmaBrm+MyGJnZOaKuquqUgCNiruef3CRgrbU4pFzFMYjDnid8Xb26Oec4iJdsok1lcewQWNBAxcvwqnKyMCRe0ZuEZKnNtKATNt46oR1w1FCVV3/64dehdbmids4VP9lIzLaOlCd4nEPyNvtD0XDzTZnQ==
+    learner_created: false
+  - name: src/LotteryClient.java
+    visible: true
+    placeholders:
+      - offset: 49
+        length: 38
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 49
+        initialized_from_dependency: false
+        selected: false
+        status: Solved
+        encrypted_possible_answer: 6J072/lcpPGdQoX8RHSjNVT+3o0u8vWaugj7FBrW/KIfj0IZkEuBo7kIfE/qmis+
+      - offset: 221
+        length: 36
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 192
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: 7KOaecjBfWpy5bfRrJClzlqZv4PYiXtyMyw/N74P3NH0Q0AH5PPK+Ffmbt8s/8ju
+      - offset: 327
+        length: 14
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 270
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: yOoYBzj0JQdh2/jihwvrSA==
+      - offset: 479
+        length: 24
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 416
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: RhuuobHlSj907EJvfL02HPLUQyMhFVfQXppAw9gvt4s=
+      - offset: 527
+        length: 0
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 448
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: HMxfXAmk/N0kGxosICOuiJc72jsJNkTGlPucv9emFhc=
+      - offset: 571
+        length: 33
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 500
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: Jl5n/gJ/evwa84hyW30qL4OU86LCiJwfG/cnii44PybI3Myvzwhc6leV2ujfiFUL
+    encrypted_text: qHaWFWN0okFAhuXJ+MO//OVM63ZNTUglJBjbvyeavEMjPdFYpQeNKA1cNZ3ffK+opqm9ez2flcSsjZe4a1ELpeOuddkDD9FG43nRYjq04HUFG3alq2d4D9/8T1qQjqOqeSaphgBD6WN7nO7Pm+rwihZBg82le/htemby5CAExa8LwiLAPjsaDe5JEaFemrRWomY6+Yp5S6RULwkFEvTA/RC8PJ6NNGPKouaIxrkbzZ4t37bEyTpXUcj0lSelrstJJ7Tv2+Oax9RJjiqgsUNoqHDv74ysuvPObliNfIeDB497fA1URXg5WrR4/xDHGETpIxp8oJy/DiJV2BxmQs6ZCxo+hERit5JMGTq/kP4lTglvpUArg+45O63zlMqXdnzOlSIcwklyqpGYtSJ11PF43oci1xNTl21QwjTUrGf6sTf0hMR07tuMQQwJzzm357qjapQmkw4gE15ksYaJcCapZBvRao6dYmT/2p41D5L1TUSGRR3GZVZxSPpve6JhGzJmXCqIeLfXRiknlYZRPdokEU+hylk3OAZgqIYd+jwChEW986vwE3S8egAqJt1dvDFxccDXtdzFDvwbMp7DaO+TVuAPIXLA26tsFqzAaPcXUBP8x5+axfUVpR5sKj6m88OWkPrvx/n45GHTbMijBZCv//lTskdJsdeMepa8YDodaDAEzOsKCkOapdWLLQPTDCTc
+    learner_created: false
+status: Solved
+record: -1
+solution_hidden: true
+post_submission_on_open: true

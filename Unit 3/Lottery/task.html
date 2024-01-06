@@ -1,0 +1,54 @@
+<html>
+<p><strong>Lottery</strong></p>
+
+<p>The CA Lottery has many different games you can play to win money. You buy in with a set price on an initial ticket,
+    and you can either pick a set of numbers or get assigned them randomly. The price per ticket and amount of numbers
+    on your ticket is determined by the game you choose to play. In general, the higher the cost of the ticket, and the
+    more numbers you have to choose, the higher the prize amount.
+<p></p>
+<strong>Assignment:</strong>
+<br>    Write a program to pull the random winning combination of for a lottery game. In this specific game, there are
+6 total numbers that must be pulled, and each number is between 1 and 100. Numbers can be chosen twice.
+The order of the numbers on the winning ticket <strong>must</strong> match the order
+of the randomly chosen winning combination.
+<p></p>
+1. Fill in the constructor without parameters to initialize the <strong>lottoNumbers</strong>. This constructor will randomly
+choose the winning number <strong>and</strong> can be used for customers who want
+to have the ticket machine choose a random combination for them.
+<p></p>
+<div class="hint">
+    Remember to save <strong>lottoNumbers</strong> as a String with spaces in between each number chosen. There should be
+    no leading or trailing spaces.
+</div>
+<div class="hint">
+    Be sure to remember to use <strong>Math class</strong> methods found in its
+    <a href="https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/Math.html">API</a> to randomly
+    choose the numbers on the customer's ticket.
+</div>
+<p></p>
+2. Fill in the constructor with parameters to initialize the customer's lotto ticket. This constructor will allow
+customers to choose their own combination.
+<div class="hint">
+    Remember to save <strong>lottoNumbers</strong> as a String with spaces in between each number chosen. There should be
+    no leading or trailing spaces.
+</div>
+3.  Create the necessary getter method to make sure <strong>lottoNumbers</strong> is accessible outside of the <strong>Lottery</strong>
+    class.
+<p></p>
+4. Override the method, <strong>equals</strong>, to check to see if two <strong>Lottery</strong> objects are equal.
+The method should take a <strong>Lottery</strong> object in as a parameter and should return true if the two lotto numbers match,
+false if they do not.
+<div class="hint">
+    Remember order matters here, so the numbers will have to match completely.
+</div>
+5. Write the method <strong>checkTicket</strong> to print the whether or not the customer's ticket is a winner.
+The method should take a <strong>Lottery</strong> object in as a parameter.
+<div class="hint">
+    You should use the <strong>equals</strong> method you just wrote in this method.
+</div>
+<p></p>
+6. First, enter the main method into the LotteryClient class. Then, verify that the program works by creating a <strong>Lottery</strong> object <strong>customerTicket</strong> and another
+<strong>Lottery</strong> object <strong>winningCombo</strong> and running the
+<strong>checkTicket</strong> method in the <strong>LotteryClient</strong> class. The output window should clearly display
+the customer's lottery ticket combination and the winning combination as well as whether or not the ticket is a winner.
+<p></p> 7. Make sure your name is commented out near the top of your source code.

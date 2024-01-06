@@ -1,0 +1,379 @@
+type: edu
+files:
+  - name: src/MadLibsClient.java
+    visible: true
+    placeholders:
+      - offset: 422
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 422
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: hPCGMtq5LjZmA9ye76lrFFwRgYIlxsZXvXCSZvx4a31ui8bV+tyuDVS0thxEgViCfl2iwzFw/a/j3+3qJgllLQ==
+      - offset: 495
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 495
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: i7RX7AJnN//qsB5bJaT25IVvgGfkTKBKIckflIAsubQ=
+      - offset: 547
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 547
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: bslCxVvVmd9Z8tEOwvjSIKRPB7dSi/wROs4C2pYxtdc=
+      - offset: 590
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 590
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: 4Yh6L+x3An+ZCWdScHl29Ls7Z+yqjwAJcSHVydhwy9qxynOGFCClqpQ2CwxO6NvS
+      - offset: 670
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 670
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: Niajl3ALBReJvOHpJVuhR51RC0FU/rMImYabpFIJ1/U=
+      - offset: 757
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 757
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: hPCGMtq5LjZmA9ye76lrFJSJ+QyFf7DfLjMoQFpi9D+cbQ3ue+d5LuD+d6rJeGsP
+      - offset: 848
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 848
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: hPCGMtq5LjZmA9ye76lrFFwRgYIlxsZXvXCSZvx4a30U9LsoiFfYcM9fCBskS6TphKfqC9NDgmlBM9n0Im4z66z3dsPJpzaLyFbCLHxfNQs=
+      - offset: 929
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 929
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: P3V5h7HBFwLB9SCMW/1hkBjzS3I4W3xwNSMIdUJNZ2I=
+      - offset: 989
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 989
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: bslCxVvVmd9Z8tEOwvjSIKRPB7dSi/wROs4C2pYxtdc=
+    encrypted_text: NYgHoNruO3t7vIi6YFhoH3eA4NVdue6m+QnLkxXVALdMpWVLeQCRhzVcM4eNRjQMFhur3IrKnr4xHd7juRgr9DX350vr5X2C2647O8mqTkJiXcZWrjnQdPtzZtTIzs7kZPNr7wIm2u8jBr1vx3iBPecqSzhyApVUd23jAQvLr2/RouCIN8j63FrfLgsutEdznWtIuQX/IxxgXJFsqlMe89TYu7qQHaNpgAfQ6Ixc/V1B0958NN8SsNsv1q/UYh/iEJjrH3ZaintmykwOc3mfwvqXd8mAq73crvoh2jWR/qgRZAJ52vxuA+wHi+uC5c2N8LgGhtlGCJar7VJp/1a8KpB5LG3XnISMerZ6G8lROQgExog93fvpHdtNOUJ0tu1Zryx/N5QOa0wL1Rv8LtLhFA5zNaq/BQ8D6MaS/dFN04GzaglQuFVif6B3hnuQbgH0w4erUCnHMLMzMYZgto8gELCzJ65K6G/d9uGJWsYaAQfUpWfFAWLR2SfnnfsDvdjvFRFmKWD451AXdRmAVSc2Cvwwe92IlurN10jNh/bMyAW4IYb1u8i2NOGH5nPY5uRbPhOLXZ+LXiRrj+Q1Xwv9Uc3txhmXJEdiURp9ZLilJNoAN7ezp3grMKzis2n6tE92WeSkMjiSrEYsVSkpGGwbk3ssIhabk7HlEEUPSKsjoWpqYDBap/C+T/W9twOK6aSS/AsMGMs03dWwE2D9q98YYo2NbXtP2dymSyXPstnl00ta0HL61s7nRmiVXXvozAU9XldB7C2lOgd6axexJ9+evJF0BEzM4atNuiR5iO5fUNTtVPA25xz97MqZyOtSJ5cB/Y88rTZ2wbQtnqjOJJ+MEfztW65Av3EgOfd9X6ApSmKlhfiS0R0cH82jhR6SfcAHf54u7t1eBOEUhZwjhBLwLkAD79J2lDfgK6P+6yvEjjGU4JQ74GALskhT/urvtZ5oalIdQa6IhWFMFgJRQAWr8R/rQw+V+4BfUN7pnVuZjlKfPiOmbHHQV3YRKmI+SMq3rBC5xtr1m+6rGtaD0Xjv0B3Dwzisa//qX7xlsEzoJbVVDZZ5uhjJym9bFOQDEiEAMN1d9fb3ESnWnM+x360+MRDBJ6L6JrOpNdW02XClgND0MzALkxagD4tbATfrolIuRlEP+umIcDb7lq4u4F6fgM8o9spJqOXjOIN/RhI05+DtDfKwf1xM2ms5jXicwrsxtSo9fZwsxQjmcDkMSPx4bizKDsPQgpIx6RIS7iw3kuCQDcXbX+ZiQ2bmg+8/MQi/vCntplkOY0gix0iO5J5erDMmeOLgyYLYb2G9rAlOGUaxUrzG/nrndJNaFudcHMrbRx9vq8sxawZIoGGJvtZaRw==
+    learner_created: false
+  - name: test/Tests.java
+    visible: false
+    encrypted_text: ITs8Nv8EH6QWJG5nufD7nL+5+4bhYoXDvmVthWtIgQ65QGrosPwl8pWa8Roz0DaOzyNHGqghbkq1kO1chMNERKIVtu6Wa2mQTUeXLeRxui7TjdtuSYfXVcmhig1a0OyQag34ZWvVDShnVaRsY+QfwLQVgHI+naN99FBSolrXq2u12hfWP3tZ5gmMN0H2SQz/FIN3RmyzyJnd2e2LYCQszMN5me2SrVULH/rLLHMXMw8UNMSAC/AnkRkq9Q5SLSpqfsmtCDIqqhkUwR0MHT14L+kvVqtE/XLfVgcHf6nC9k3Rf2BSHTvKm9BcMYnNq0vIUf/Uu+2xHMS4VSBpmPzKt0LzSlm9ObAyjBYj+/m4GTJ4uxsuEjaO4XUuIyACWyClg7ed7/R4JSRKpMSOTFbC/l0cOysbY4z9z7N38SeborOjRSomt52UwmNsN3mP197OX2gPEQz11zlLFXtszVeJeeP7NHzjTdF2vAExOmS0x+Q4hLawDNdk7rlPy6AF8/Z/ZuvyHNuEJ4psUwR0g916MsPaC7VevzrmVkCi5N773XfT+8zBU6Ek1jgV8+pdtknoWe8u769izd+dltsU14NwlTIkdB2s8KnAt4xjb/IUN7wqgPDxb723USH6GMPThELUjkwtqvsvXW1OTGwUlkIfuwPfrbLL+0kP8s8pJMUgqf7+zzyIQpb9m3Om1s7vzTmTohSu8HCB9zf1XKOLvX4CyBr7dMnlpkH7S0YYzjH/xTcD/wujj0Y0f71GrkBOqDVTQZ5bb8Y7e7jvRkZPAb2cfp6HAir/JbyjsJz5nBSjKQk+WA73cbu3p6V6dl4rPo9xOxQguFw/Y1Zmrokp+szycI90f9eN3itp9KKN4DnTThOXT3yqCK788b/MbsU06cHlMGUWIereREC+Pi0Vk7yvSqwO/9koTyLFj7d06R9y28wsYHGzt3/uyu0XkhNR3zGtVPWxIu0DSl8Fr43y8OxoTe40Oh4TQ9fuVNn/juHY0vjeaxr/IVWGj1lX8QUMo5pu5s+bKTHx4554v60XEffK4g==
+    learner_created: false
+  - name: src/MadLibs.java
+    visible: true
+    placeholders:
+      - offset: 625
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 625
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: v0jdaU9KUBFuH+7qqblo2hW+cVGIAq2ULBHHFz8A3obdu9jlkahVoWIf4XcEABCFe5qBsa+CX/ZInU6m0VEQ+1WDdsAv9+0bB4FX8I6NRt5AmjeJ/2Lj4wcMP3vl3IGETC2mXZtZOmY6f2TpEDmK1ez7nqTHyiqakAJudyfM8P82oKMicsnPLNazzcsY5Wu/CUUqGKmqy05U1OqLT+Sa/h8A1o9aZ4Hfc1yFx8K/1UgoqTR/VAbD0gRuTnONs8++ZDhjSfVVKGxaF0+BxN8tQWghrHCJ1EB6F6jS94Ol9THDYssd2aE65UHoLQ98ighb/DZh5/D+7O71r0d8Di+LtU75If5kndxrLoPwXb2DQ4o/Coh57XjDHGFzkSctprbLH/nno9DDj6q6Cmk0RJh1qiz9mJ806WDAMY8i71VBdvieyFDwlBoA6VLGE9CEbu9FVai8ZI7mqvuv32T0Suwyc2d+Jiv0c/8WZ5Z8osQ3hR9N0hN0GLYHfN2ZQs1SG7vdsD9Wi3e0pBR2D5XxMmEZoDpXVpYahLWoCHYbdY7/27/AJMmGGAMBN+3ORTRtVzjm4X9MxfHThKz7EUk/clHoeK8WU1kFwgngJxyU5/Uu3nezCRdEVWrKABnLzscUo8vz90UX6r+TmcENGOwd4gRHKqYrRRGW9SPyX3LrTd9Dnd/uKcpc3okf4ajh3Ijjd2xcNb2Sm5SKitu7oZfcciB3qu5MQ3j+m5EzLFviKEyjNHWtk/Ug4oh60HbHhhRZnXAyiP7QNt6Nv/1NqHK2ydvySZwlj9KMgz2CUeB8roIJPn2iweLYU6bAbI0pSW9uPZxo6BSMcWXgSgl1bm6XW63Qkxn0Fq7ENHGGtf2GyaJbIckglFHHeV7gQ0kL/aRRMC5jpB9GoOmL6Ak7oJ7Jcrsp+mP2yGQ2q7uKGCp4ZhxXoO9/mU9kXwZ/hyGKfA1D2JlQ/1TDOttcYSqVCyf866u53dwrfNuz8MNenbntlmjl/xO/1nK8Br4kx+sBIfj5mBT4
+      - offset: 1769
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 1769
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: z9JiABrYMS9WbIqn/wyY2HGPF+9qzzD+8ABynowtGoc=
+      - offset: 2021
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 2021
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: c6B/theqwTnHTEP/Phn0hTMQVKfXd5hcybTyN+tM/FM=
+      - offset: 2133
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 2133
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: yBaH3BR7EClHZnrALfvdOLIiGBGU2ViBTRll0KUlkWI=
+      - offset: 2244
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 2244
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: /+fIWeki3SpLcSSZRmY64CCx3sqVskreVai+HMtwZnRidp/BqRTCtv+njjpvD1GLdPpb/rkBSrPu+r1Qg7wkk/7vvmV4bzRUdqqConomS0n+aCEdWBaVXjXRNNyKYC+p
+      - offset: 2344
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 2344
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: c6B/theqwTnHTEP/Phn0hTMQVKfXd5hcybTyN+tM/FM=
+      - offset: 2453
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 2453
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: 6HSKfjRZ2UtkojXp7MR1bp/QHE90yZtUy8UhUyaBxvJ02vF6xLgNsTHfB9oeBAal
+      - offset: 2557
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 2557
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: /+fIWeki3SpLcSSZRmY64CGTCkwl3CU0bWZ5gbJOlQMvwXw1NbVcxro03F12mTY2yb7IQjzcbbq5f9M6O1rf5hIWDM1YLbhWmTMXG5FpISOpKbL18i9jcvnDrmfH4Wiu0q1qBVd3pIEkxHr0z+/D2A==
+      - offset: 2657
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 2657
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: 6HSKfjRZ2UtkojXp7MR1blI+wXqymcQpLzFGyNjLeU4=
+      - offset: 2764
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 2764
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: DFY7XruIymPan91/B1vdKg==
+      - offset: 2865
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 2865
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: /+fIWeki3SpLcSSZRmY64AWCQQlyevRSUu1R2kr/g73TIhitfJbZ5pr/ua+ym4M2+pVqZ1eBGAgHYpuVe7B6SBENO4y+icwUsnaI1YNWq2g=
+      - offset: 2955
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 2955
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: 6HSKfjRZ2UtkojXp7MR1blI+wXqymcQpLzFGyNjLeU4=
+      - offset: 3050
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 3050
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: Yqwc85mOQ0FFe5Nu5wlauLtwMZ3eEPOK+E50fqAbtrQ=
+      - offset: 3140
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 3140
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: /+fIWeki3SpLcSSZRmY64HM6jNHw3iiE+NXO12OGSmU1No0fwtFdivYC+826F8lNCiGync/zQsn1m7hKo2+2BMhku655sAZ/hQRq5A/uAuaP6IppJ4p2Kk25WfThdbvY
+      - offset: 3260
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 3260
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: vtqpt5umOHHvB2a+rXOHlA4RMP7gPY02K4VFqs2mur6TugZBkQ6Zf1YNnm/1wLzj
+      - offset: 3377
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 3377
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: y9RshmK9YDSpmXHdmP+NOYwbpUCiKo3+9ylTPGDr4+o=
+      - offset: 3498
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 3498
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: /+fIWeki3SpLcSSZRmY64GMXCSjB8lEwEb/trs/+YkVl1BdF5gowTf5H8C7U/v+QaqCWSAvbBMtMNyjjumv19swMUQwUsAeycdRNbEHL5Kki4wfRSUNVPxcPL/F26N59IGqgf7rWtd/YRVbfxYm1JA==
+      - offset: 3608
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 3608
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: vtqpt5umOHHvB2a+rXOHlA4RMP7gPY02K4VFqs2mur6TugZBkQ6Zf1YNnm/1wLzj
+      - offset: 3720
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 3720
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: KIIAgrJGoGtU2C3vXoQlDeStNMq1O+rQi30Zh3MNx9k=
+      - offset: 3828
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 3828
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: 2f84Pg1QznuE7z4HiKGuMtUu4e5s4dROOaoUzLlzHBs=
+      - offset: 3931
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 3931
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: /+fIWeki3SpLcSSZRmY64B3nfRCjx1Gs3zHXLXV1naFw20n6JvNT4kA5D+Jy3ypEmz6dbL8C6ju/51lRNU9sAqMyCl0KDXztsTjxE1vMv+I=
+      - offset: 4024
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 4024
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: KIIAgrJGoGtU2C3vXoQlDeStNMq1O+rQi30Zh3MNx9k=
+      - offset: 4127
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 4127
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: vtqpt5umOHHvB2a+rXOHlAZcXNQfqhaEvN4MAM4rikU=
+      - offset: 4225
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 4225
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: /+fIWeki3SpLcSSZRmY64Moa35AgoP+B+Hel7Fm2vK9/KSu3sZuPEatzG+voGyvcmagngFJle8EjbqU/JHTGz7mF9Ht2UDMe+V34uqxKE5s7PVTFum8TgUGH3cDiJHr0
+      - offset: 4310
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 4310
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: Yqwc85mOQ0FFe5Nu5wlauEN+R9mHjmP7FD6LGA0IYJQ=
+      - offset: 4400
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 4400
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: /+fIWeki3SpLcSSZRmY64LtpvcMNOVu2xg+rQ0LBvg7fmaUCB7VYM1mUKn/3yZ8I/S05sn9ltXwY1LiLLPydhKeYDaDz3Jtdnc0EUq5plkMxivYnRgH8h4VLcHRqCLeE
+      - offset: 4447
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 4447
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: Yz2ZB0JjOI0HJKdxTwJNCQ==
+    encrypted_text: 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
+    learner_created: false
+status: Unchecked
+record: -1
+solution_hidden: true

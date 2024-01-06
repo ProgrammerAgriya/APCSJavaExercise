@@ -1,0 +1,46 @@
+<html>
+<p><strong>Movie Theatre Sale</strong></p>
+
+<p>When you go to the movies, there are various tickets you can buy. For example, only those 17 and over can purchase a
+    rated R movie ticket. Additionally, discounts are usually given to children and seniors and for matinee showings.
+<p>
+
+    <strong>Assignment:</strong>
+    <br>    Write a program to have a movie theatre cashier prompt the user and calculate the total sale of a set of movie tickets.
+    <p> 1. Fill in the constructor to ask the customer for the title of the movie, rating of the movie, the time of the movie, and the number and type of tickets.
+<div class="hint">
+    Be sure to remember to use <strong>Scanner class</strong> methods found in its
+    <a href="https://docs.oracle.com/javase/10/docs/api/java/util/Scanner.html">API</a>. Also, use the correct import
+    statements in the class where you use <strong>Scanner</strong> methods.
+</div>
+<div class="hint">
+    The time needs to be converted to military time to easily distinguish between AM and PM. 2:00pm in military time is
+    entered as 14:00 but must be saved as 1400.
+</div>
+<div class="hint">
+    You should check the time and determine if the show is a matinee showing (before 2:00pm).
+    If so, the total number of tickets should also be the total number of matinee tickets as this is the cheapest discount.
+    The rest of the types of tickets should be set to zero (you will not need to ask the user how many of each type of these there are).
+    For any showing after 2:00pm, the number of matinee tickets should be set to zero and you will need to ask for the number of
+    each type of ticket.
+</div>
+<br>2.  Create a method, <strong>checkID</strong>, that records the customer's ID age is valid if the movie is rated R.
+The user should be asked to enter the birth year on the ID to test if the ID is valid. This method should return a boolean.
+<div class="hint">
+    You will be using this method in the client class to determine whether or not to proceed with the sale.
+</div>
+<br> 3. Write a method, <strong>getTotalSale</strong>, to calculate and return the total sale for tickets for a customer. The sale should account for appropriate discounts when necessary.
+<br> 4. Fill in the client class being sure to run the <strong>checkID</strong> method to make sure only those over 17 can buy tickets to rated R movies. If someone under 17 tries to buy a ticket,
+a message should be printed, indicating the sale is over, and the program should terminate.
+<div class="hint">
+    An example of how to terminate a program is shown in the constructor.
+</div>
+<br> 5. Verify that the program gives the correct sale for the following information. The birth year of the customer is 2000.
+<br><strong>Movie:</strong> Schindler's List
+<br><strong>Rating:</strong> R
+<br><strong>Showtime:</strong> 15:00
+<br><strong>Total tickets:</strong> 3
+<br><strong>Number of adult tickets:</strong> 2
+<br><strong>Number of child tickets:</strong> 0
+<br><strong>Number of senior tickets:</strong> 1
+<br> 6. Make sure your name is commented out near the top of your source code.

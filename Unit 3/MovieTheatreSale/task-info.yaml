@@ -1,0 +1,322 @@
+type: edu
+files:
+  - name: src/MovieTheatreSale.java
+    visible: true
+    placeholders:
+      - offset: 773
+        length: 27
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 773
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: R/a8bEsnKChuOEpnCJih2U+0NryKOOdLUsVQfgYRRns=
+      - offset: 966
+        length: 28
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 947
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: Ru7N9xwxD2w7fgmY/oIoIqN8fFgDwMpLyHl0SoXWUU0=
+      - offset: 1596
+        length: 118
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 1557
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: vxCINFcOxuU3MKbat4erXp7QzGlUBJx41T1jnkxnpVwV5UkIhBQMejxwAuYTjU4p
+      - offset: 1853
+        length: 16
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 1704
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: 1quI5MBsiBhfjnICKvtm2Q==
+      - offset: 2078
+        length: 20
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 1921
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: DcQleDazWk1bk2wCZDu/KC0hZL3AM/jGTEnRbZg6Fco=
+      - offset: 2286
+        length: 40
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 2131
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: iHEwFgrHQaFwJ8nNBrcrgPSyXEM0t1hp7EUl3rfUQxM=
+      - offset: 2527
+        length: 93
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 2340
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: T8TwvdkRCb5044R/bQGzcLTZ4X8AeAG8VJSc+HFVF+RfmmpeJuDEuA2EOEKa1vyX8wpLji89twHCp2aWAHk6mg==
+      - offset: 2913
+        length: 24
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 2641
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: iHEwFgrHQaFwJ8nNBrcrgCz564fvlv8Natzfk3ZD2s8=
+      - offset: 3143
+        length: 33
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 2855
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: DcQleDazWk1bk2wCZDu/KC0hZL3AM/jGTEnRbZg6Fco=
+      - offset: 3388
+        length: 33
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 3102
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: kQefkl9gOzS1C0WWzccIdzPREj6ztTWP9EEiUDK3rGc=
+      - offset: 3660
+        length: 33
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 3349
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: jQQ2aAvWFNRXN/b8Le8dGeX4nuZKhs/ZjlIloswtTNs=
+      - offset: 3907
+        length: 34
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 3598
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: HEFu/17FXdmpMVN1Q7hFS7OHpeZEiDbtHe/9CL3cphw=
+      - offset: 4242
+        length: 81
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 3934
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: yNth8CqeWn9G6P/DoXuyqyNsDXgLN9v49UhkfVw9uUMEJVJGiujJR+5hkeKmUp2KHOd6NWCM0yThg7xcJGMwq7F/47MQi3sQpdPdYOH5Sxo=
+      - offset: 5173
+        length: 26
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 4792
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: 9b1TuOYKdhpORfakKGE0Og==
+      - offset: 5246
+        length: 14
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 4847
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: acCLR6d8lZlaKiOmSKW94w==
+      - offset: 5311
+        length: 12
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 4906
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: kMct9QllpgXEwu8BrJ/bGA==
+      - offset: 5378
+        length: 20
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 4969
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: WDB0s/H5AQsqQjjvQ9btpSXjRX9tv6N6JGg83jES0io=
+      - offset: 5455
+        length: 22
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 5034
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: Cz+/htKp6gPxYJK5E8KAg7rnEYv0+BEeDELyt4zVbAQ=
+      - offset: 5532
+        length: 20
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 5097
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: /nkdpRjzeSRZ/42Fg5ZyJ61RO62ZwQjjd77ExDr2XXY=
+      - offset: 5607
+        length: 20
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 5160
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: WvGroCZ7vgH2aFzI8xVHDzVt1QK+ShFB8Lht2qAvw38=
+      - offset: 5683
+        length: 21
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 5224
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: GL0IhUaVRSf3zNQm4WJgGMrT0AgH0kV71SKBUkkJAd8=
+      - offset: 6205
+        length: 12
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 5733
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: N8zmWb5DXQFmlYvBjEA1lw==
+      - offset: 6227
+        length: 0
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 5777
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: PXhdWJ1q4KfvfaaZcMK2OTjIqYXeX6hoVZvL7w7INpk=
+      - offset: 6237
+        length: 4
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 5806
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: B32H4xjFtl8yhKC200kQ5w==
+      - offset: 6275
+        length: 5
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 5848
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: 1qQ9kQ9eUXSirgUkxBvydQ==
+      - offset: 6511
+        length: 154
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 6087
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: /nkdpRjzeSRZ/42Fg5ZyJy8xkqJ9KVZP/Q/GLWD3HvX2hXsGxQYI1x4v6LDmf5wEhwZ9YMC0x1vw3OVV3eXVxpLa7cnYrMU8Pxd23qi1mjEAj4T1CELY4Bhi9hkCIkTTzTdNbRRz0TEPwZgEtwNdSnw9WyDRTe5i362m1pOfvCcOzCBihp+JbiZ7+eGa7Nv4t856yzn6nj4GBGfWRJVMFg==
+    encrypted_text: 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
+    learner_created: false
+  - name: src/MovieTheatreSaleClient.java
+    visible: true
+    placeholders:
+      - offset: 220
+        length: 47
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 193
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: sZRbNCnGFDT/ky/p4t//q6K9XORWiwT49LbjVe2b3WtsZJYZa3Z+OT49YqbyjVSG
+      - offset: 376
+        length: 23
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 310
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: CLLpQazrMWxq43ApyUt6Rxf1vxd1tZZ7dgWY3BtSuw8kilXhRUNHZH0ExHXufU4Ey4p34ZD6+m9+ELCno4F6RQ==
+      - offset: 575
+        length: 15
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 494
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: u4IU6xHosaSnjd6ZYX/wJcCoaNM1JjQohulk08X36Ks=
+      - offset: 622
+        length: 82
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 534
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: hPCGMtq5LjZmA9ye76lrFCa1/6ZPnxICZBw3194CpeeD5WyJewtOyjMoMLVgFYOmme13aTVvGZRsWq+oXbHyguDEwEWqk3eZR2p7mmBI5IDHMFPqkvb8v2llu5Jn6Gx22ixUGBJ8Kglju9c1yPT8aTRYcE7rK/Ei8d6xboNFP7JRfxAxcLVyMVKhewhQC3qtXaW16kCAEZ5OuGuJTcbYFA==
+    encrypted_text: Ph4JzOQItDpdu+tGh4zt2T5YlE2A+W2iMdeKxmU+zIOGMSBIC7X2xLSonO+q8XPEkUMuVd/bAo4sLnnNzKjQ87P8G29R9CduwPaC9jnkVP+otEZC7AjVk+N6Aw3epI6rWqgLSmBtzRb8xad6fhjyldpRwhKWUCMSdu4WgtiXz3G5aOlOgrl6rzOkSqok747X+e6cyyZ31q7puTn4XAoiQGraEf7ZW3PhtvtdXuxKhaf2rwiRmt68E2cLd1oRElWI+Px+vXIg+gt5L6qjfQyZNK7g5QxqpvJN3ySbdw9JaFbrkQ7BoxuUYZBeI23ucpg7QIWbfJW6LBOsJAOHFRjuEfjWir4Lex9YAyZFKDlBtXuEPkEHcmBRRgy7kUNBcab9ZJ9N2Jt0O0TAEtoL6iRNu2n5OFv77ziwFOG0gSFuQPRQH4ePjzTp5EiA86euenVGRyre9LJsjYvpN/Op61XPAT65WQ2vSQrO+guzaQU8SgXKDfc2insyf4otkJSy0vGwkv+0bUyC4bk0WkK5qNsh8p9R7W45s2gsbRnGt2am+aZxgf8PxShQmNpHRsl4vcT1lt92Z6vXZJB97n5L8hBaJ8iHnLij7NN/iDCE2To4J7+8+fzVrcmN0gvsc+JQbskqNAl7Z0HjC84BK6xRqpSaiJ+B1oMtlZfU6433N4BDMBSfBik9Bt6NiJNjkMwO3Fq75CEuRAtj0lEQdiMd09jdyz0MWeVKdknN0y9dIKsXEBQ3p+XuMtlF0N8rX26+PVIgdeEJ6Z7pnv+JYTUSnrZyIcEXa8ZgX6zKZfE4KiIddnvTrV4YIcIkMmYQYM95KwB8+wCTGESi8Fw4e0tqvGo/MwVeTS/O5vY5A6Im/8hZlZnqjlBa2QhmEMDGZRii5Wla
+    learner_created: false
+  - name: test/MovieTheatreSaleTest.java
+    visible: false
+    encrypted_text: ITs8Nv8EH6QWJG5nufD7nL+5+4bhYoXDvmVthWtIgQ65QGrosPwl8pWa8Roz0DaOVGZMXp/u2tYQOzmK1VszSV2fHwxnP7PwCVAWwW7Jv4hIWt1hOhjc98uVD8JIidbvR1CzB2G/6YjJiNKpfKqWai+ikm2KgSKcR6SFQy8vTvKNu1lrDkvnrhAoy2rwbzZYSg9LMgTGWASx3yfhpnAeDqRPI0SqaWy6FZ6ZsogOHgT/F0n42eRrqhzyBaEw2Sn5p53lYxlrWUH5fHbOV+ZJbfzbCSRPzAvu5va3+ELNLE/cwrityGcTtTWiyuVg/JZah4Z6gCmS9ho0mCpZaBeEd6WGz6SwTeuYnmkzsUS7MqJqyBjK8DL2OAWcec12V84q5YaLiMrT7X0H+Sg73L5Jd0AQkeZiYkkI3WHaS0IBITHWDS82hOuToUBBHTca4G3vt7ov73gkwo9vApel1OuNM+iVdiiBXoF8wY/8eyTFR5nFSsGTRZwFmTB/CGzgyrj4PwkYIjfD1kIjTy84g3nLg15+53AmQm2Q5Qtr09QwXrFeRqszIL+elP+nwrV/PEEBvfz7vTCZq5jS1NUZq7ssLSMc0H9q7Cv1B89sLXQyB9akRlD7vDwAyVvHGIBTWHYjvSH2i+pgw1ERQARf3Ms/Fw==
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sat, 06 Jan 2024 01:11:58 UTC"
+record: -1
+solution_hidden: true

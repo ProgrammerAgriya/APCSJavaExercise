@@ -1,0 +1,70 @@
+<html>
+<p><strong>Car Rental</strong></p>
+
+<p>When you rent a car from an agency, the car is coded in the company's system with
+    specific information like the following:
+    license plate, make, model and year of car, and usually a special code.
+    Here is an example of an algorithm to calculate a rental code using the information
+    in the following way.</p>
+<p><strong>Rental Code</strong> = The first 3 characters of the car's make followed by
+    the first 3 characters of the car's model, the last 2 digits of the car's year, a dash,
+    followed by the sum of the ASCII code value for each char of license plate and
+    the final 3 digit number of the license plate. You can assume cars makes and models
+    will all be words with lengths of at least 3 and license plates will all
+    be formatted as three letters followed by a three digit number. You can also assume all
+    cars were made after the year 2010.
+
+</p>
+For example, if a car had the following information, the rental code would be as follows:
+<br>
+<br><strong>Make</strong>: Toyota
+<br><strong>Model</strong>: Highlander
+<br><strong>Year</strong>: 2019
+<br><strong>License Plate:</strong> ABC123
+<br><strong>Rental Code:</strong> TOYHIG19-321
+<p>
+<p> The code's final 3 digit number was calculated using these steps:
+    <br>1. Find the ASCII code values for A, B, and C: 65, 66, and 67.
+    <br>2. Add those together with the 3 three digit number of the license plate: 65 + 66 + 67 + 123 = 321
+
+</p>
+<br>    1.	Write a program to find rental code for any given vehicle in the rental car's fleet.
+Rental cars have a make, model, year, and license plate. They calculate and return the rental code as a String.
+<div class="hint">
+    What objects have are their <strong>instance variables</strong>. What they do are their <strong>methods</strong>.
+</div>
+<div class="hint">
+    Be sure to remember to use the <a href="https://www.cs.cmu.edu/~pattis/15-1XX/common/handouts/ascii.html">ASCII code</a> values of the license plate character.
+</div>
+<div class="hint">
+    To get the 3 digit number value of the final part of the license plate (in the example, 123),
+    you will need to use the static Integer method valueOf. You can find it in the Integer <a href="https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/Integer.html">API</a>.
+</div>
+<div class="hint">
+    You will need to use <strong>String</strong> methods, which can be found in its <a href="https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/String.html">API</a>.
+</div>
+2.	Verify  the program works using a car with the following information:
+<p></p><style>
+table, th, td {
+  border: 1px solid black;
+}
+</style>
+<body>
+<table>
+    <tr>
+        <th>Make</th>
+        <th>Model</th>
+        <th>Year</th>
+        <th>License Plate</th>
+    </tr>
+    <tr>
+        <td>Volkswagen</td>
+        <td>Beetle</td>
+        <td>2015</td>
+        <td>LIZ666</td>
+    </tr>
+</table>
+</body>
+
+<br>    3.  Make sure your name is commented out near the top of your source code.
+</html>

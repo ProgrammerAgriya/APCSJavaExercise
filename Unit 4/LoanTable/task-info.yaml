@@ -1,0 +1,79 @@
+type: output
+files:
+  - name: test/output.txt
+    visible: false
+    encrypted_text: kGjuaGDHH8+44PK7GijsrV4yPHW46GXx4RrdGefRXIA1areIw5sNBL1qzgxNLnoDCW+VQLDA0hUiN//wJAO+lc9HC6xkpW0Y6N7kT8FVdq2Py3Ndd+WSGWxj6Gt+++gyKkhPL6DQtUA5VDpaxjnZdMcCi1k5J7xeIYHmHxkoHheMmn5PcMwINFG7VTwY/CJwNsMZcIin8x0dnH9dUOvc9y5vvbxqlm65QlNgbrx8GyJxtx+gKJvpgTnOw/MrrFSiChRUd2gJSx/AQGrlZYDqEFaaOiOqMA7/uKfuIezLMgxxLvHKFDh1nH5VZzZim4Y+i9itUnKM2HDnbmw2WgofNUgdqGvd2iVhJkslE63WUHdyFuo5V2n/tzs/JSrO1hR6B2deLFdGGrcGSp7jVxoz9xHPdF78ay0H5BGr7K5dWHp745bl26HAMDq898zVRKyh
+    learner_created: false
+  - name: src/LoanTable.java
+    visible: true
+    placeholders:
+      - offset: 900
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 900
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: QTgC2VrWh1CLcA5tjuNBvA==
+      - offset: 1099
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 1099
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: FdkJ5WyJXFbsxnGljz39YUAQnBvGH7Mtn7HVnXlNfyEu2K3cLbeTl5BaQoz0a2WuxXnUmZuyjayLXRyme9ihRQ==
+      - offset: 1288
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 1288
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: 0AXuxTz4mPyHVcheFsgvUPonMVV8k0G3mxiIV/xYLueGehdeJVacU0nTBQET0MNTJMGIkxYpFtH4ey89KfcDmAEUsf474l2ebjFubo6hwnKO9yfcSBlbqeWqC7aeWxma
+      - offset: 1475
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 1475
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: ijcwhvxjNfjEK6UzHhlJtQ==
+    encrypted_text: gBwrJaJ6JUeCbKR1w+OTbCmYZ0vwKI2ClbSK2Ycn0IktHSdFE2dW7QinYAUNM8CNg/LEopxpm6FqjCvF3lavzALlJidJ/yl9XX7Jeg7YwdLZAMrcmx+8dGdJ+keoetelODXp6Jk9Uv5rHcgey3ixDkuMO0Fa19kusk10YG07mEkgDUZZ5ncOHwVwKGBKXizlJ3Hecd2jQ9j3rDdjXnJjcWOmxQlqhgVC7t80E0VLJ/40ifiaY49uZ6wrSVoN6GIDMtiGfiInk84MwUqP9dXdbwqOW6eHDolPolBIa7e0fPk/FtLRErPx5MQEl8EFZPBvQhplLBU9A8hojSHhqm7nhb1l7+dNWJVh3t9VSYnSiAQY42A/N/Yeav7UFEsDAg5atzQQbTuwsSUIvJMoYCPC/AQ7kXavWPSaYejTEWGFRCMiwor183VpQDtAt8U1IEKCin7SJg9BNmEeNzgxZHN8NnbCxjOHmus3XT43DyDCAM4Bc5wchGAOhDkjmFANc/qIf4GhUfh2yR7TWuQtE64jIoCSReFSPjVuYg7Aw1maRPS6qFIFGx1B9gYGdvfwP07dfsq6IfcPGgXUaZax0WOQRHp1vh1HHd5revCwNgvjWqDS0RZ1qIKLOzwhkKgoAJ10BEcedUXO54hVSen4KiBepHqyBo0iDukL5wQT6lPzhtRukwLOsHzhbGMUyHXXwHJAT2U0i7iVbnMsvwgF7OMnjIZZ9DRVpwjVyFZxWdSeftvPfUpx/SOl5+Vm/afyocFhgg9R9h+qU6A+p05yRm+NhlFNntZ5sozHh7bOVT0/Zl4yVU1cJptlmhdizayhAhineZfsLl+tmk1SeUqvphKmh4GRrbr0fvhlfP/1e1+x5o+ajn49H0ZkeVjCkpEYFYVGB4Ouk5J52DXBVu/yE1VcYgbEGx8TvIQ3lkkPgTNYxRfwu1R2Tvx9dMMe1W7kCZzZHv9zUjtzi9DpiYKPFuXmBTffq6RYVpn3+kD3ptpfA4kaUr95oSA+WqNQGM4M7Hj9I2cq0Qbkl/5jTLTmq6rTlaOYSSgUI8g87zoyyuEx+p9iOfDO+NkGZtqF/MtKgoVl/5RFTwj6iouR5Bd2RgG6WlzgULcOq7rK+kcwIuFO+/SwMPRV5nd8YAU2VWufDQhbydX7qjqVQVSmfE2JQa2mUgHnop5Qp1KiWEVHbDFf91wvfL+UNWNiTp+p5u2zvQa1kF2uD5O+1CpRlVd2nVNnyKnCrgc/GxRj7jZVZOIoJ0HrS9F2jBYD0Kw43+BZhZv/2jUaZnK4Bn1tm7t+4q43fHcDyO0GrglDauTjJDbSXevXpWjY8NfdY2+UzZkmYLplkaWu3OhI3xOEwXBSJCwupPqM4/l/UJ6TGR9ACWZuP9AR6ytyovdnzxlK++l3B+JGLSQ/k0Wr1txjNMWuH/oFbdqjDpENM59ARfPafkHCamFj724ZrlbR+akzU7XooJ6/O1pwUKM8gjddVJqkpPLcojW2kMBP8nGEE1gjr+PT9Sl8yZdwSPQdtDkx+f0d9NjPSbpDGsXhbkjpEMQwm5zkOq1p6KdEngIF/47nmGloAUkSEM7ovO+XUDiOnrQJ97k1MNYnhRCaOrSLA0BYw7Y+UdATpuuSoMXmqvji8VhFNcsHOliKcCu1G3R/Xnw7TaGRbnaQDw6HU4jk8Domf5axGqe/dKkZuyfecVGq44iCKj+dlPfQVl2PYPzpOAtWJjmmlVuhUzffAtUCcgBFcI/9yudkDaYlTzLjNfiJkZkdkZKJOokhbj2yrkAJiljYw/HWS1b3dBNsyiQ+ww3TpqSjyqJznZ8Ipn/bLyKVLx2/THgAWv06ELyMte+5Y8vb1lm9XIqY1/K+G9VWFlCXb4nQgbIUWJAwFHv1ITtzbEQq7Qr/EHIWQX7Mk2XFTeQeeqWe6JD/0HkVa+3f8OAhBDNgSN1K1SRCz0HqE1QW4OSs9yVobesoECvkGNOXfM4ibiMx0rLnT+JiJ2+y8kKBfbplWVOVmugO370c5fVjq7bzWPXBjwX0hhBg6CyRYtwv+TjflHvTpMPFLTLCb9koYV2wTgJvIUiH63/nUNCqgXMD5zvvQyy9aDxCiAp3259Vuajmob7UPL/38yZnBMz5QCTLVCVFCdJ9DbPA4RQZ4aOiKG6LQ7S9HPi7eeI2svr5cZZ7
+    learner_created: false
+  - name: src/LoanTableClient.java
+    visible: true
+    placeholders:
+      - offset: 126
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 126
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: MuwOT5cVGc23DlrEVDveeXjMXAAecjthKC5EXeVvqrxdPkqnIj58B+SSrlQnr0QgrVeOIsiZU3Kndcq+/qaUFsE9paebdXGqdQR53bG4zak=
+      - offset: 180
+        length: 8
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 180
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: K1Bi7iFUtkqkmd0lfNt2zyZB2YdNWcZTjZmGQWcDdfM=
+    encrypted_text: jtyg4LqX1JqIbezYFzThAMMZwspvRjzTfyHGN5Uc17pI9ZfMrIAY+BvMpWzsn7UU+28pEMM7Okvag/MQLMyoMVuMhfVDbiqbgVmqIVSsXQOj54vcJWBja/cYnBKALkfZUjCP5fSUnAB2Bg//ZsVxDf9QrVeFOMYYQtUJPRbfGidMVBaFFmZEbLea6yjiLE/p4w/8Lf1xr15WoCTVqJiR+sEiwEdC/saZGtoY/OFvQfF7E2TEb/Uyder7wJknTD3tOxsjeFbuR4Hh2utyoOAqKw==
+    learner_created: false
+status: Unchecked
+record: -1
+solution_hidden: true

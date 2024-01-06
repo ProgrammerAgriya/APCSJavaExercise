@@ -1,0 +1,43 @@
+<html>
+<p><strong>Lottery</strong></p>
+
+<p>Recall the information from our Lottery Lab. The CA Lottery has many different games you can play to win money. You buy in with a set price on an initial ticket,
+    and you can either pick a set of numbers or get assigned them randomly. The price per ticket and amount of numbers
+    on your ticket is determined by the game you choose to play. In general, the higher the cost of the ticket, and the
+    more numbers you have to choose, the higher the prize amount. <strong>However, most numbers can only be chosen once and any combination of
+        those numbers indicates a winner (the numbers do not need to be in order)!</strong>
+<p></p>
+<strong>Assignment:</strong>
+<br>    Write a new program to pull the random winning combination of for a lottery game. In this specific game, there are
+6 total numbers that must be pulled, and each number is between <strong>10 and 60</strong>. Numbers <strong>cannot</strong> be chosen twice.
+The order of the numbers on the winning ticket <strong>does not have to match</strong> the order
+of the randomly chosen winning combination.
+<p></p>
+1. Fill in the constructor without parameters to initialize the <strong>lottoNumbers</strong>. This constructor will randomly
+choose the winning number <strong>and</strong> can be used for customers who want
+to have the ticket machine choose a random combination for them. <strong>Remember, the numbers chosen should be between 10 and 60.</strong>
+<p></p>
+<div class="hint">
+    Remember to save <strong>lottoNumbers</strong> as a String with spaces in between each number chosen.
+</div>
+<div class="hint">
+    Be sure to remember to use <strong>Math class</strong> methods found in its
+    <a href="https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/Math.html">API</a> to randomly
+    choose the numbers on the customer's ticket.
+</div>
+<div class="hint">
+    Remember that numbers <strong>cannot</strong> be repeated. You will need to use a loop here to ensure new numbers
+    are randomly chosen until all of 6 numbers have been chosen.
+</div>
+<p></p>
+2. Override the method, <strong>equals</strong>, to check to see if two <strong>LotteryRevisited</strong> objects are equal.
+The method should take a <strong>LotteryRevisted</strong> object in as a parameter and should return true if the two lotto numbers match,
+false if they do not.
+<div class="hint">
+    Remember <strong>order does not matter here</strong>, so you will need to use a loop to check if a number in the winning number matches
+    any of the numbers in the customer's ticket.
+</div>
+<p></p>
+3. Test and run your code!
+<p></p>
+4. Make sure your name is commented out near the top of your source code.

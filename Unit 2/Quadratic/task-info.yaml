@@ -1,0 +1,92 @@
+type: edu
+files:
+  - name: src/QuadraticClient.java
+    visible: true
+    placeholders:
+      - offset: 239
+        length: 6
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 222
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: JE0WQyTvXpWcX+a0p3pPoayKmKJrQhIA9H0ziquUEHk=
+      - offset: 338
+        length: 17
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 331
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: JE0WQyTvXpWcX+a0p3pPoayKmKJrQhIA9H0ziquUEHk=
+      - offset: 455
+        length: 17
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 440
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: JE0WQyTvXpWcX+a0p3pPoayKmKJrQhIA9H0ziquUEHk=
+      - offset: 584
+        length: 0
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 516
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: E9GoIY/0KZtl2UApyg9j2vsge0HavcbHFC7GPLk/14iS/aD7r5PZJbQ4dZhfxhJV
+      - offset: 643
+        length: 31
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 592
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: hPCGMtq5LjZmA9ye76lrFJj7pqJyxPCjZKaawo8cZixpFOSZgLnNADjl8NPDxp2v
+    encrypted_text: NYgHoNruO3t7vIi6YFhoH2fubRXxXYhjSbgyDbd/+sb4wm6EL1fYq0CMHMXD3zQMehnXIeESnMbjIieMvWP5ZjRkba+pUtG8kKOffP1ibU1zZ/Goe4EKEOoyCYu38OlsCTnehQJB5iplEqPBBNNwt3YmwO/7njOQLu27VxJqxl8F79FHe+r4gEbLWqiIXOnY4fvdh//2vsIhC0D19t/eaP2p3OdgMWhlHSVCd8LYCHcdXxBIM928LFxfde/oq725fec2ByyjXf2opJ1yQiZzFooCurxW65UpEz3i8xldc+ojLGy99TM4RrWklZOGleRaEhJ1I0pfxkoZXS/hCKx0GVA1RTGJK/YEfqhVOADs7lk4FY0/m3BXD9UsStEXZsou+kEAPGHguI+AFFf8z4g1RcBv+NPhHzkPgdvGfRxoSuJH6vFJvbvwVRYmTtIx9I/8msqqTbFXDG81GFZDa9TefGXwfQmpc8JyWop2mYqtX/lPh0Xt09EaucZUrWFcZqDmbQW3wQM91HLsIzdYceDFs7PreZZ8wAq7I9dwdZCCUW9QWl1MS3RAzmVhIsiY5+HeGxUx8SVnwCc3cwwnw3HolEi9o9VamqJrh9jh2btu32/5pN2vw+TPUltHePfTlI+XFgeM9Prbi6sF8hMQP4C3M7kPPnchJ0sLo6IsgyrozWpIZMl41sHUvjqouhtBQChpzf4up/IizAPkJ1zlNGNgnxQI/hbnMjBRf33UJCC5v6YXGF0jsL/V5JmuRDlMKrggfBC+cBFmu+3lIp11yAJSTca7LB8cPVe4Nbfrz5deiyWS7tHJ8o7if7BvcrLdhnj5
+    learner_created: false
+  - name: test/QuadraticTest.java
+    visible: false
+    encrypted_text: ITs8Nv8EH6QWJG5nufD7nL+5+4bhYoXDvmVthWtIgQ65QGrosPwl8pWa8Roz0DaOGpdxit9iuMtUHeheIoyZaD6yG6e+YtO8Er4c136oui/nCe0ixsB9dZWtEPaAr6FTdRU9ntKX+yyHiF1G0gWanJoSXNaHKz7zWjHQ2cp9j+hF8kKQGgzEtJ0g14tpdy3QiLsnqLMedf2mM4ndKQFsCFNMLIvRQj3kTtI4JPnoyjdzPNZXiL4xSNUydyEfcZOvBUiVVXrcA8gkbcZHEr9Atd5ASFttzMXOv9mxHEb3oTwQmfHSuQEBJRdVwXdt4ex9kCxB3AEa6Q/jMGQAvhGUIxW4yCDGLe28a/SZwxd/R5gELmY5ZaFTcnP5nepOluv+l+edCXWwaFpYuxSA4Gkv8YWagFLUtGXCDoV31fsFmHQt5RX4ayU9DQNsQ8WFY67LM5ozFt3bDpAPK8zKkGf6dEElV5nYrczYzE1w81fFHHhrGQ4CZtfjH6Zera2fq7tezm6fT8ioLmFl6z0gVmNzsA==
+    learner_created: false
+  - name: src/Quadratic.java
+    visible: true
+    placeholders:
+      - offset: 427
+        length: 52
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 339
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: keW56Q7rK92QpPPOv7anxhVh3NGSQfSyapW/S8Bs4efaTyHDjFgH1r/TLw4dniaEZbqF6KG8Lj6yPzEmK4Jx7A==
+      - offset: 494
+        length: 53
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 371
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: qWtYihX8LKmi27gsKkOKVtjklx5Am2soqPypArFWtMNcDrQ8UAVHSyZpV5fXqfrNRShMypZe/Xk9HzcNEDP8sw==
+    encrypted_text: ZEWNf3VAzeYSt58Kjy/phRUAJnThde7C7i132tnynvRJFz6bJUsjIvquXeg6fblXK+N5dvB4Qk76n5s0V0sz3nVCx72gGkR4FgybNl+0vYS/3q/ef+D70dnK8n0KsDnU4yhPquP/vLBx7ndeauZ5WrzL0CxVpNgq1NJ4a0/P1hjfTSSAlRmrzHO/Ic8h/f+auXkpXH3ov9kmK68m7mJO2zkD8jLKp1ZpyNrcLLhWGLJ0OKu1gkSoziu/EpB7jsaoOLN+Lhvgs+WnJGetKmXKj8p/oxooFPXFkB2AIVt2opCxvsVZ+8IWo7p2Cm4XeA9kMOD3X6OT8qfdg6YAq7zqkwEM2liha751ZYJPiEvfGPZzciGaW2PMtr3jZ92pZ6m72dcJuaeC79YHDeX/A6pAbMvWXvsxSfQU8Uxcid0nk5ggClZ7kjuYNDwxg7RAkgfYCGWg97EWuDFkl49ZuDvWu4wKAyctJAuIHKDLlx+6ph2VtgRw0ilcdTVa6OcSvAACPrXsEq6L03YYT6ePDS4pEla4fxe4wahNKsl+o0rCS7t+9WzVsH7qv4jdJfDev573adWSKC26129F88/WOVE/SSPinJ8CaCs56W0cT5uFE+hfGPhXcdDzXqCsKeQX7XKM38PM3uh7p5wLaq++HdfoUi4xV0cv0oT6RhmECBl+IM2RPLhinGGhLWvXiOg3eyT9s4k6zRGXvDJAeDN9Co630aLbsFX236sCYntMYQgMJs1x1iTT2HRzNOnOKVMorEm46PwQiNyiPzys3sVqwrc9L/d8mwz3GtLO5l+bZz6OTESQVMenOoLhN7RH0K9pBxqGRStlDu4IZwGdhpIL1BUXOw==
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 31 Dec 2023 20:51:41 UTC"
+record: -1
+solution_hidden: true

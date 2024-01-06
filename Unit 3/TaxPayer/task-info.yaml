@@ -1,0 +1,262 @@
+type: output
+files:
+  - name: test/output.txt
+    visible: false
+    encrypted_text: 8TrCW/fwJlkKssovJJ1dlwqm5JQcaA6su9+1+SZan6nOOTFE0r80f/CDdk8sM/OaJp1Lk+hevnFQN1CVuGMTJzfP50QrpY4uuPqUVEHSKYc+X2S5Ux8pnKPLBav3MaBCu7IKnDsgf+SbeOMRLTluNg==
+    learner_created: false
+  - name: src/TaxPayer.java
+    visible: true
+    placeholders:
+      - offset: 435
+        length: 14
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 364
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: jBJLY0Cwr96n8zVW87+K/A==
+      - offset: 640
+        length: 34
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 563
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: lsn+z7RWvEr8bpwo71F7U+0W88AAh4hKgMwoNWlhhx7JNigxQuwGaQEZ0KTWGb7O
+      - offset: 693
+        length: 15
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 590
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: 1sNFM8DFEwlktNQvF4tMlg==
+      - offset: 731
+        length: 33
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 621
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: lsn+z7RWvEr8bpwo71F7U1KOa7dliP7JG+GbLG6E0sj/ffKQykMuOb7AOOw/jYe/
+      - offset: 783
+        length: 16
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 648
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: Xb0lNI43nI3mYbvp2p4s4ys7DkUtrbyjWwDfdfuxuvs=
+      - offset: 1070
+        length: 23
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 927
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: J6z5l2Rqe0FHBGFLtYZoP/oYndmgEwx28qeV8VwYQk4=
+      - offset: 1381
+        length: 0
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 1223
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: tbxxpOCRcUOf5rJUkMYl1A==
+      - offset: 1420
+        length: 20
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 1262
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: gWWnA9WHk9xRX8KvK+aa+A==
+      - offset: 1457
+        length: 6
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 1287
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: UmqeXCv7wRIU/lW6XCNeTA==
+      - offset: 1487
+        length: 27
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 1319
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: O5ULHRjvHCOMdWubfWZCcyReNQtwKUFl+yhpvAst/9Y=
+      - offset: 1627
+        length: 6
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 1440
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: UmqeXCv7wRIU/lW6XCNeTA==
+      - offset: 1661
+        length: 619
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 1476
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: wbLltQrADBNJ9GuuyvBF+jtQ8/g4e44SX7+3HrpaY9dVuh13iJItgRH1osujBN9hlAstPLMm1UFBwDfdfE5PksoW7T/KT/hfgGVROC/lVS+vDAT/XQvnsUQ4GHXQgoVskKF7i/Y3u2XeoLJ4f2XjxmnUf6O0H+nOhVNZc0jmGoFVwANUed+apBQKviIm/D7x0mnnzSRyW/e3WHYdAdymONPdW5uaGti9lRgHeH9inln2XWP57BFNGmedAr9UHp6Ao2XKIqI7kX7raJSUNOXbGqTidDRaN3WvPaAOwW10DIOz4ECi4W/lJ1yQgBerAiR0/mrq/Z6SIu9ktl9J4k1c5qgEOoBZMtIOLrWk8zi8qidZhVUxA37lItS90FhPIhQeTOhOHB6IsxLtlGxaQURK7Le9pAs8b8VS5MkAyaEVUMV9APoqu11zMZQ8Fi2AQqmP8vWjVD1HjhZjQkXhl06J0fzflUbdQJDXcBNmgaGVmgDVejOl+oBDUQFNC9r6TvQoMadBNNNgt8iq9M9l97Gadju3DN/0anEzT3PbGZlyKinM5LNLaS7THz7SmylAw399vVgqHjthj13gCee34PskE/fMHj2fZamUgOthuaKb7i92tGH3t3oeP7xtvEqDaBPDc5N8YUd/LZYTi8nZhKJlAXbXsPj+oXae/Bqf/kkqpnrwdljhY2xAy5EN4K6iCNsYysmezTCod4w5LJI48s0wRu2Khv9Z8QlwiopvgUfNmB9fR4dACqrn5S1LAMpK0PwACSqLsRsjQarMnCbA8yXpAQ==
+      - offset: 2368
+        length: 6
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 1572
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: UmqeXCv7wRIU/lW6XCNeTA==
+      - offset: 2403
+        length: 621
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 1609
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: wbLltQrADBNJ9GuuyvBF+tq98Eo2ibGbQyKEW+mlXqXZjoQtOtbvpK479olyxa3GcKbGPXdzBEnt1ySWmwUPJ8l5StopX+f3B/KNkQJ5oRL/HQW9qwZ8/mxn3F3FbfEVfqPc48u+A4bykZGQi0pac0FZ658Qd64vqN+oKMrzck5uBZb01JtXW+TtxCL9mQqZIoJd+1fiefuvYl4VoDkf/85qNYqbAq97OH7VFFPxuaF196M8JgVVIphl3wew9IrLZAIvE58M+ukKYyUuwJRahrzS2pbHw89Jadp+WXrg6l7dImEalWJQP5/qCdJvsfP0ogNk0j1KqQ7RFqy6Hgj5/HqH2PZ3b1StpUHVFAi2YHCKxoSgnO6+hplNOZwBU2rA0Pol3Ff4tMo8/g0sjlNXWjxHFgR5A14ap9kBoX6zNUaXV2NzPllj03IxcQG1mF4s6jOqcEfxkpo0pjVxu8C9ph/8bqFSIM19NLlNPXi3Qac0/aoaYxg7a1RIXNmo5qP7mQiwW2V3429enxbvDD535FiefA0glVy66bzJrZJqfQKTllv1EUJZzw7cHWAd4gsn9fIvaVTz3jykOnlq3FfZSW2qx8Esk5l+5AllHEK00JVJqlbxOoqDLGSSY+7IYgNGmer6ylvZE04X5SS+bEoGoXl90OAUZjwgHx+yy+RaMNMaDhfalGjGqwBAxplMG9nvcaO7/yhtpeXkgMlDyNLKXxOC9ODYN2ddFtWXRlNVhQbt5sf+fElRcL0Gq0xawqkn
+      - offset: 3148
+        length: 6
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 1741
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: UmqeXCv7wRIU/lW6XCNeTA==
+      - offset: 3176
+        length: 45
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 1771
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: DEvuRqh5BEyM+u5anorxWjPAnnyasEyIHdINWY7a/U906xk4mXkntLZ19VD+xFBb+gh+lZWKs/RLsbgUPQfE/bfpgOrbZlqSyYJpl75P+Y/Rz+zxRMlyzHIPK1aJZYoe
+    encrypted_text: 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
+    learner_created: false
+  - name: src/TaxPayerClient.java
+    visible: true
+    placeholders:
+      - offset: 214
+        length: 31
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 214
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: NWS90L2ENMzrW+PGdezON/bVXVRjNbdlatcVIduBEGw=
+      - offset: 419
+        length: 26
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 396
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: tuSleUVKoDoGqAB7P7uoEQxqRAfrntmTc81rKUyT5UA=
+      - offset: 463
+        length: 19
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 422
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: 7x6DaVQWHC7OVTqQk5n+RTX46GOGNBuRI4IbODj4RYU=
+      - offset: 515
+        length: 17
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 463
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: t+QybC1B5KXzPdnnIdTX/4h8S5Rcm9BqnrhKybta9bk=
+      - offset: 701
+        length: 32
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 640
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: j855G8eaFbzBcwC4FING1Kmh/eXLjPauKosnNSE3cIcwVXVPRWl3ns5ZV/qshgSd
+      - offset: 907
+        length: 26
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 822
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: bbUl7N5+H2Cotb61xBHkY6pB4ccl6RoR0CDTqVhxBis=
+      - offset: 951
+        length: 19
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 848
+        initialized_from_dependency: false
+        selected: false
+        status: Solved
+        encrypted_possible_answer: oiFPuShnQcxcrY3AWgbqBUUO/9UWVq75LQP7W4BASsU=
+      - offset: 1003
+        length: 17
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 889
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: xB4Jflj59agFs0/vT4OJbNH5Z3NkQAVeNYYk+7llxG4=
+    encrypted_text: UrBjITaQ8AjxjQ5xIfqozRWWrSI/WSOF6abHdCrRu1Jhab99gAxTBbNbdJxVvsMM/HkZLTVPJlNPQvzJSYEYPQ+9/0vqzr+Km9HA2P0o+OD7D5aqECnt2nJIN6745CoxGeqX9nLhA24shtgw9drT9PdBi+2S1TGVm2GD9s4YOuui+0JjjZKyV0ckbWZ/VH5DiYIkdtaXZd2hEH2qN2D2Gtx/rZcVI5mWE4Lj21FRn5UM3rjsRe+CK0jT5vzwjP2TZs4/v/pkoPw3aQQfHfZY4xgRTHCTlfK9JwnACmJIRRJ+hr91TrQV0cGUiqFqJGgpchYYs+wVas/PiJOT/t0rTQmY6tGTkS0p4LAdvjFtR9z0kFDVVSVNYTH+fitgyDq/fy/liKSMt63A7RVNqTrMyT+Bz5sRzVNjzYG/TtFv8tDMhxbZ4YapSX+0b6GPAlDSpWCp8uY6wdE6g8uvrEA44qJnPXDhTFe/nmDiGe57Nkm7zqRpRjj7c/lTB/ws6DUq6dQVJd43ZQCNC91vpU/W1uW7C2P0Mxg37Qv/N4ShxTHn6mvXc1DCUDVUVIG4O3JlS8jPTiwGTtkSQdlrH+F0JA66+c5I2rZfLAbKrcQtd4ZJBjOoqNS2Ja72zF3vIJGhejLP9Czb3YbHDfy/1oLxXeFtcCiOcZqUs6pIP26gAvXsoMrApVwxHxKqYK2U+6L+LGrWHzSIZcl6Mzd+0ke7pl6qI/vREkvqYNV5lQoTDHGIMXjxWRehvkGXAHqNl3jgxSdk9PYLbeI3huO7r0Fe3zA5hqW+ZV5HjxKumViEcAPMZfYVqO0DgigdyCLWZIo29V7XbyQrtL2OQQi3Re3DlnwXkdylJrI1Yn1dyJD4RGLDqC5gqddUbk3mn3rH5qATaQEJ3UB4hXln7Z+BllMCQXDcbbnMO6BtdcLt6xWStvloNXTvvDmQLxLw65ZpWEI3OBID0yCcI4JuFkQjgcvSRAA9SuuiRyp7z5zBxn+cFu9hmLpPhxbxcZCCsY0gpVM8eMt58fx8FRBvpfYkxjqLlKCJK+nv+i48YdMZNAit6Uk5n9CJp69koNs9R7dwuJh1nmjlPVxr4P619AFjSlIcGjFS1lr3PWIjGKmF916iZByEM2BS/CPT3KRL1cXvN4dQkSRzt10DfY5mdi/1upnPE7qRNVWxSmpCOWlgHksiMpyphVlw9bXRYDvJaV8v79FF
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 02 Jan 2024 20:31:55 UTC"
+record: -1
+solution_hidden: true

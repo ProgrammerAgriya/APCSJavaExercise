@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Unit_2-Car_Rental" external.linked.project.path="$MODULE_DIR$/../../../../Unit 2/Car Rental" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="APCS_Keate" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../Unit 2/Car Rental">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Unit 2/Car Rental/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Unit 2/Car Rental/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Unit 2/Car Rental/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

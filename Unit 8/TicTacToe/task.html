@@ -1,0 +1,87 @@
+<html>
+<p><strong>Tic Tac Toe</strong></p>
+
+<p>Tic Tac Toe is a game that's been around for centuries. It's simple enough that anyone can play it in a
+short time, and it works in a format with rows and columns. Traditionally, it's done on paper, but we're going to look at playing it digitally.
+<p></p>
+<strong>Assignment:</strong>
+<br>In this lab, you will be focusing on the
+<strong>TicTacToe</strong> class. The <strong>board</strong> consists of a 3 by 3 2-D array, <strong>board</strong>, that can be filled
+with spaces, x's, or o's.
+<p></p>
+1. Fill in the size of the 2-D array <strong>board</strong> to finish instantiating the instance variable <strong>board</strong>.
+<p></p>
+2. Write the no parameter constructor. It should assign <strong>player1Turn</strong> randomly to a <strong>true</strong> or <strong>false</strong> value,
+so that the beginning player is randomly chosen with an equal probability of being chosen.
+Assign <strong>win</strong> and <strong>boardFull</strong> to <strong>false</strong>, so the program can begin running.
+Fill the array <strong>board</strong> with spaces to begin the game. It has already been instantiated.
+<p></p>
+<div class="hint">
+    When assigning <strong>player1Turn</strong> randomly, you may want to access the <strong>Math</strong>
+    class methods found in its
+    <a href="https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/Math.html">API</a>.
+</div>
+<p></p>
+3. Write the constructor with a parameter. It should assign <strong>player1Turn</strong> randomly to a <strong>true</strong> or <strong>false</strong> value,
+so that the beginning player is randomly chosen with an equal probability of being chosen.
+Assign <strong>win</strong> and <strong>boardFull</strong> to <strong>false</strong>, so the program can begin running.
+Assign the instance variable <strong>board</strong> to the given parameter variable <strong>board</strong>. Do <strong>not</strong> change
+the constructor header.
+<p></p>
+<div class="hint">
+    When assigning <strong>player1Turn</strong> randomly, you may want to access the <strong>Math</strong>
+    class methods found in its
+    <a href="https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/Math.html">API</a>.
+</div>
+<p></p>
+4.  Write the implementation of the <strong>display</strong> method of the <strong>TicTacToe</strong> class.
+The <strong>display</strong> method should print the elements in board with “|” before after each row and between each one.
+An example can be seen below.
+The <strong>display</strong> method is called in the <strong>turn</strong> method, so the board is displayed after each turn of the game.
+<strong>display</strong> has a <strong>private</strong> modifier because it is only a helper method - the user does not need access to it.
+<br>|x|x|o|
+<br>|o|o|x|
+<br>|x|o|x|
+<div class="hint">
+    You will need nested loops to accomplish this. <strong>Be sure to run your code to ensure this is
+working correctly. It is not tested by the "Check" button.</strong>
+</div>
+<p></p>
+5. Write the implementation of the <strong>switchTurns</strong> method. This method reverses the value of
+<strong>player1Turn</strong>. If <strong>player1Turn</strong> holds <strong>true</strong> before the call to <strong>switchTurns</strong>,
+it will hold <strong>false</strong> after the call and vice versa.
+<p></p>
+6. Write the implementation of the <strong>horizontalWinner</strong> method, which returns a <strong>String</strong>. This method checks if a horizontal row holds all
+x's or all o's. If a horizontal row holds all x's, then the <strong>String</strong> variable <strong>player1</strong> (which holds x) will be returned.
+If a horizontal row holds all o's, then the <strong>String</strong> variable <strong>player2</strong> (which holds o) will be returned. For both cases, the
+instance variable <strong>win</strong> is set to <strong>true</strong>. Otherwise, <strong>null</strong> is returned.
+<p></p>
+7. Write the implementation of the <strong>verticalWinner</strong> method, which returns a <strong>String</strong>. This method checks if a vertical column holds all
+x's or all o's. If a vertical column holds all x's, then the <strong>String</strong> variable <strong>player1</strong> (which holds x) will be returned.
+If a vertical column holds all o's, then the <strong>String</strong> variable <strong>player2</strong> (which holds o) will be returned. For both cases, the
+instance variable <strong>win</strong> is set to <strong>true</strong>. Otherwise, <strong>null</strong> is returned.
+<p></p>
+8. Write the implementation of the <strong>diagonalWinner</strong> method, which returns a <strong>String</strong>. This method checks if a diagonal holds all
+x's or all o's. If a diagonal holds all x's, then the <strong>String</strong> variable <strong>player1</strong> (which holds x) will be returned.
+If a diagonal holds all o's, then the <strong>String</strong> variable <strong>player2</strong> (which holds o) will be returned. For both cases, the
+instance variable <strong>win</strong> is set to <strong>true</strong>. Otherwise, <strong>null</strong> is returned.
+<p></p>
+9. Write the implementation of the <strong>findWinner</strong> method, which returns a <strong>String</strong>. If a call to <strong>horizontalWinner</strong>,
+<strong>verticalWinner</strong>, or <strong>diagonalWinner</strong> does <strong>not</strong> return <strong>null</strong>,
+a statement is returned to notify the users who won in the format: <strong>"[insert winner] wins!"</strong> [insert winner] should be
+replaced with the instance variable for either <strong>player1</strong> or <strong>player2</strong> depending on who won!
+If board is completely full of x’s and o’s but there is no winner as
+defined above, the statement, <strong>"Tie game! Rerun to play again!"</strong> is printed and <strong>boardFull</strong> is set to true. If the board is not full
+and there is no winner, the method should return <strong>null</strong>.
+<div class="hint">
+    Don't forget the difference between a <strong>break</strong> statement and a <strong>return</strong> statement in terms of
+    how they exit loops. If you find a space inside <strong>board</strong>, think about how you will handle it.
+</div>
+<p></p>
+10. Be sure to look at the <strong>turn</strong> and <strong>playGame</strong> methods to see how they work. Although you
+will not need to write the code, you will gain a lot from examining it and how it works.
+<p></p>
+11. Make sure your name is commented near the top of your source code and use the given <strong>TicTacToeClient</strong>
+class to test the accuracy of your code. You may alter this class to fit your needs and test appropriately. Challenge someone to a
+game of Tic Tac Toe - you've earned it!
+</html>

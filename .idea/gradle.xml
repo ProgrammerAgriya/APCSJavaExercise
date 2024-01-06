@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Unit 1/Coins" />
+            <option value="$PROJECT_DIR$/Unit 1/Easter" />
+            <option value="$PROJECT_DIR$/Unit 2/Car Rental" />
+            <option value="$PROJECT_DIR$/Unit 2/Quadratic" />
+            <option value="$PROJECT_DIR$/Unit 2/ReguarPolygon" />
+            <option value="$PROJECT_DIR$/Unit 2/SwingExample" />
+            <option value="$PROJECT_DIR$/Unit 3/Lottery" />
+            <option value="$PROJECT_DIR$/Unit 3/MovieTheatreSale" />
+            <option value="$PROJECT_DIR$/Unit 3/TaxPayer" />
+            <option value="$PROJECT_DIR$/Unit 4/LoanTable" />
+            <option value="$PROJECT_DIR$/Unit 4/LotteryRevisited" />
+            <option value="$PROJECT_DIR$/Unit 4/MadLibs" />
+            <option value="$PROJECT_DIR$/Unit 5/ReportCards" />
+            <option value="$PROJECT_DIR$/Unit 6/Compact" />
+            <option value="$PROJECT_DIR$/Unit 6/MadLibsRevisited" />
+            <option value="$PROJECT_DIR$/Unit 6/SoccerStatistics" />
+            <option value="$PROJECT_DIR$/Unit 7/School" />
+            <option value="$PROJECT_DIR$/Unit 7/Student" />
+            <option value="$PROJECT_DIR$/Unit 8/TicTacToe" />
+            <option value="$PROJECT_DIR$/Unit 9/StudentRevisited" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

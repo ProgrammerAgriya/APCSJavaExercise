@@ -1,0 +1,27 @@
+type: edu
+files:
+  - name: src/Coins.java
+    visible: true
+    placeholders:
+      - offset: 59
+        length: 199
+        placeholder_text: /*ToDo*/
+        initial_state:
+          length: 8
+          offset: 67
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: BGNNOks6L9oqrtHGZaFd9MJHlEnF7/d4E1QB4+Sd4NK/9jffmHXd0nI3gTUkdsNEnX9uP7pLNVuiZZwPu9FM7MCFYLqZjve644Y9O8Cr2SXpJympF5mVQNuHtkdJwLEWNb8MC92eDLuB5ylqqrkzWeSVUxgbwx8It5CwCpzDW1zA4RR2SmlhrCCg6bzp0hEcBiuxZ+GYRQ11PGxlAXbHw+AIW7DdiJsi7CJmi8Vzmwn/fkfgepwhZJVOEQ491ia2jmfQxQLCukm1vV7vi/ndvzKmVEtFjXgOMW0X96AD64E=
+    encrypted_text: z+ZcPJhsHTlWkkAD2zJWp/2KbQUq5CBfIUeeESGq4bxGzm3SaS4+Tl8Qd4mGuJN1ciypIYfQBxqexyOOAZ308e5S059jkXBxi3dFi49R0Bmf+iATN4SHkThlyJLTLIX1yFPId/jseEPXfncxaThKn0gJq/Jt6YdtFK4BOTYt8t6cH5k2JMWLqHMNxtoeBMsOqZrw+soCkB/ChP+u2Uou77GGG+96S3Ri5O3V6WCDh+JSpV0Kpr6G0MHV+ayfN+q61a9SxjTiHmz5A5xgT+WsfWbS1usmeK9K55oF07EypvQbc6AS/LiS6pQC5JNcGTrJT8QVKdHD9CIH8WqfQuet0z8ssOzAKAR8DMNYGeZKhdCf3dPgFJ7BHHAA7eDbXVsc/NIVYqtZ2dvHp4kNAJf6mefhW81rvxK6Z9JMjQ/GtPE=
+    learner_created: false
+  - name: test/CoinsTest.java
+    visible: false
+    encrypted_text: ITs8Nv8EH6QWJG5nufD7nL+5+4bhYoXDvmVthWtIgQ65QGrosPwl8pWa8Roz0DaOXM0u/nmEji6fMWck7REmd/aR7DOHtJbhlm8ukBGnR7ZIdgpNbm/uohme+xkakgniHyfhJ/dlKL6eynUHFxeeXQYDefEPOlO+b8jBr++S1AQ8Y83NmfH1/249cJYK25/aTPWw8b8SWlyD0uqyyiBUZz7PvnhFeWX6GWEyKBwJEPXTZhIfmMQ0JinchTAC+cI1d0K90O8MticmDHcbRI+oSwcL3GYLk2Gtp5E0yS95pUlS95MKUw0mPxBVLO+YUUPkcOWNx8yvB22alA97ni1wyeeE9o3Z0sObDb52B7m5E+uh16JnbHrmp5XLmVSeWPpsgSrkDfBNpa2KXVBOKyOj2vEtap/UuxT061CadtynDbtsQqJWF3cBDTXFwIRhINcD4vdboO/YV7Kux4h9HP4g2w==
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 31 Dec 2023 02:41:01 UTC"
+record: -1
+solution_hidden: true
